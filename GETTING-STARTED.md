@@ -62,7 +62,11 @@ Ask your AI: "What existing notes in this vault relate to what I just wrote?" It
 
 ## 6. Keep going
 
-Add more atoms over days and weeks. Create your own MOC when you have 5-10 atoms on a topic. Write an output (a blog post, a presentation, an email) assembled from your atoms.
+Add more atoms over days and weeks. When you notice 5-10 atoms clustering around a topic, create a **Map of Content (MOC)**. A MOC is a note that doesn't contain new thinking itself. It organises existing atoms into a chain of cognition: this idea leads to that one, which connects to this third one, which contradicts that fourth one. It's the narrative spine that turns scattered notes into an argument.
+
+Look at the MOCs in `04. MOCs/` for examples. Each one shows how atoms from across the vault assembled into a published article. The "Connecting Threads" section at the bottom highlights which atoms bridge to other MOCs, revealing the deeper structure across your thinking.
+
+Once a MOC feels solid, you have the skeleton of an output: a blog post, a presentation, an email. The writing becomes assembly, not invention. The hard thinking was already done in the atoms and the links.
 
 The system grows from use, not from planning. If it looks messy, that's fine. Structure emerges from the connections.
 
