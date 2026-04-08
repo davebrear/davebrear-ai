@@ -77,3 +77,21 @@ These are deliberately unfinished atoms with open questions. They're invitations
 - `can-a-second-brain-be-shared.md` - personal vaults vs collaborative knowledge
 
 Pick one. Disagree with it. Extend it. Answer the question I couldn't. That's how a Zettelkasten grows.
+
+## Visualise the graph
+
+An interactive knowledge graph viewer is included. To use it locally:
+
+```bash
+# Generate graph.json from the current vault state
+python tools/generate-graph.py
+
+# Start a local server (needed for file loading)
+cd tools && python -m http.server 8000
+```
+
+Then open `http://localhost:8000/graph.html` in your browser.
+
+The graph shows all notes as nodes and wiki-links as edges. You can filter by type, center on a note to explore its neighbourhood, adjust forces and spacing, drag nodes around, and click any node to read its content.
+
+Re-run `generate-graph.py` after adding new notes or links to update the graph.
