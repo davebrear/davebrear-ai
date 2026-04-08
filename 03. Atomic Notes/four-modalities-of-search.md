@@ -15,4 +15,4 @@ Four modalities, each answering a different question. Each draws on a different 
 | Graph | What I connected | The links I chose to create |
 | Semantic | What I meant | The concepts in the content |
 
-The modalities don't just coexist. They chain. That's where the real power is.
+The modalities don't just coexist. They [[chaining-search-modalities|chain]]. That's where the real power is. Each modality has a dedicated note: [[keyword-search]], [[metadata-search]], [[the-link-graph]], [[semantic-search]].

@@ -13,4 +13,4 @@ The [[human-judgement-vs-machine-understanding|gap between human and machine con
 
 I haven't tried this yet. But I suspect the overhead of maintaining shared atomic notes might break the method. The whole point of [[one-idea-per-note]] is that it's one person's idea. Whose idea is it when the note is co-authored?
 
-Maybe the answer is federated, not shared. Each person maintains their own vault. An AI can traverse across both. The link graphs remain personal. The traversal becomes collaborative.
+Maybe the answer is federated, not shared. Each person maintains their own vault. An AI can traverse across both. The [[the-link-graph|link graphs]] remain personal. The traversal becomes collaborative. [[what-happens-when-everyone-has-a-second-brain|What happens when everyone has one]] is the bigger question lurking behind this.

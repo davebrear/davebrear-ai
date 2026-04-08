@@ -6,8 +6,8 @@ tags:
   - search
 ---
 
-The link graph emerged last, from the act of thinking. When I link one note to another, I'm making a deliberate assertion: these two ideas are connected.
+The link graph emerged last, from the act of thinking. When I link one note to another, I'm making a deliberate assertion: these two ideas are connected. [[links-do-the-work|The links do the work]].
 
 The practical value was immediate: starting from a single note, traverse outward and load an entire chain of reasoning into the AI's context window in one step.
 
-Three of the four modalities index things the machine can derive: words, properties, concepts. The graph indexes something only a human can create: deliberate judgement about how ideas relate.
+Three of the [[four-modalities-of-search|four modalities]] index things the machine can derive: words, properties, concepts. The graph indexes something only a human can create: deliberate judgement about how ideas relate. That's the core of [[human-judgement-vs-machine-understanding|human judgement vs machine understanding]].

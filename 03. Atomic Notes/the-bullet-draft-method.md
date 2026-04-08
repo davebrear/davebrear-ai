@@ -9,6 +9,6 @@ tags:
 
 I ask the AI: "Based on everything you've read, propose a linear outline for this piece. What's the narrative arc?"
 
-It translates the network of linked notes into a structured sequence of bullet points. Almost always wrong on the first pass. That's fine. The bullets are scaffolding, not scripture. I print it, mark it up, move things around. This is where the network starts to evolve into a story.
+It translates the network of linked notes into a structured sequence of bullet points. Almost always wrong on the first pass. That's fine. The bullets are scaffolding, not scripture. [[ai-outputs-are-inputs|AI outputs are inputs]]. I print it, mark it up, move things around. This is where the network starts to evolve into a story.
 
-The key insight: I'm not asking AI to write. I'm asking it to sequence. The ideas already exist in the note network. The AI's job is to find the thread.
+The key insight: I'm not asking AI to write. I'm asking it to sequence. The ideas already exist in the note network, built through [[think-alone-first|thinking alone first]]. The AI's job is to find the thread. From here, [[the-two-paths-converge|the two paths converge]] toward the final prose.

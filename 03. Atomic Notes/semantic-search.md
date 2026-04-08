@@ -7,7 +7,7 @@ tags:
   - semantic-search
 ---
 
-The AI was already doing this. It would connect notes conceptually without being asked, just because they happened to be in the context window. "This note makes the same argument as that one." I hadn't planned for it. Total accident.
+The AI was already doing this. It would connect notes conceptually without being asked, just because they happened to be in the context window. "This note makes the same argument as that one." [[the-ai-surfaces-connections-you-missed|The AI surfaces connections I missed]]. I hadn't planned for it. Total accident.
 
 But it could only work across whatever was loaded in the session. My note "Shadow AI Follows the Shadow IT Pattern" would never surface from a [[keyword-search]] for "enterprise security blocking AI adoption." Same concept, zero word overlap.
 

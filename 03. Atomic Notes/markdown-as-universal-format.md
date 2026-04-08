@@ -8,6 +8,6 @@ tags:
 
 All files are local, portable, plain markdown. Which turns out to be the ideal interchangeable file format in the AI age. No vendor lock-in, and every major AI reads markdown natively.
 
-I store context in formats I control: plain text, structured metadata in open formats without proprietary lock-in. Prompts and workflows are assets, not throwaway chat messages.
+I store context in formats I control: plain text, structured metadata in open formats without proprietary lock-in. Prompts and workflows are assets, not throwaway chat messages. This is the opposite of [[vendor-memory-is-renting-furnished|renting furnished]].
 
-When I switch models, nothing is lost. The file format is the insurance policy.
+When I switch models, nothing is lost. The file format is the insurance policy. It's what makes [[model-portability]] real, and it's why [[the-context-layer|the context layer]] can outlive any single model.

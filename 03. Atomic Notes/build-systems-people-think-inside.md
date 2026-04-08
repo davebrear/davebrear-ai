@@ -8,6 +8,6 @@ tags:
 
 There are two ways to build a knowledge system. Design a retrieval layer and populate it with information. Or build a working environment where people actually think, and let the retrieval capabilities grow from the work itself.
 
-Most enterprise AI knowledge initiatives start with the first approach. Pick a vector database, ingest documents, build a search interface. The result is a system people query but don't work inside. The knowledge is static. Single-modality retrieval over inert content.
+Most enterprise AI knowledge initiatives start with the first approach. Pick a vector database, ingest documents, build a search interface. The result is a system people query but don't work inside. The knowledge is static. Single-modality retrieval over inert content. [[the-best-knowledge-layer-is-a-working-environment|The best knowledge layer is a working environment]], not a search index.
 
-The question for enterprises isn't "should we add AI search?" It's "are we building systems where people think and work, or just systems where people store things?"
+The question for enterprises isn't "should we add AI search?" It's "are we building systems where people think and work, or just systems where people store things?" The [[thinking-residue|thinking residue]] that grows from real work is what makes retrieval rich. Without it, you get the [[four-modalities-of-search|four search modalities]] pointed at an empty vault.

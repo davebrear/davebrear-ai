@@ -13,4 +13,4 @@ When I write something using my workflow ([[think-alone-first|thinking alone]], 
 
 The [[firewall-your-thinking|firewall]] helps. The process helps. But I notice moments where an AI-suggested phrase becomes part of how I think about something. Is that influence or contamination? Is it different from reading a book that changes how you think?
 
-I suspect the answer is "it depends on whether you noticed it happening." But I'm not sure that's good enough.
+I suspect the answer is "it depends on whether you noticed it happening." But I'm not sure that's good enough. [[scepticism-of-external-ideas|Scepticism of external ideas]] is the general principle, but when the external idea arrives through your own workflow, the boundaries get genuinely blurry.

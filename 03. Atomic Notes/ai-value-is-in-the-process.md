@@ -8,6 +8,6 @@ tags:
 
 Others are building "second brain" systems along similar lines. The pattern is emerging independently across knowledge workers who've figured out the same thing: AI's value isn't in the output. It's in the thinking process.
 
-The obvious question: why not just ask AI to write the blog post? Because the writing isn't the point. The thinking is. And the thinking happens before a single sentence gets drafted.
+The obvious question: why not just ask AI to write the blog post? Because [[the-writing-is-a-byproduct|the writing isn't the point]]. The thinking is. And the thinking happens before a single sentence gets drafted.
 
-AI as a thinking accelerator, not a content generator. That reframing changed everything about how I use it.
+AI as a thinking accelerator, not a content generator. That reframing changed everything about how I use it. [[ai-expands-not-compresses|AI expands thinking, not compresses it]], and [[ai-as-infrastructure-for-thinking|the infrastructure]] is what makes that expansion possible.
