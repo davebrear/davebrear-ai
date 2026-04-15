@@ -18,6 +18,7 @@ tags:
   - ai
   - critical-thinking
   - productivity
+  - chain-of-cognition
 ---
 
 During December the "your year in summary" emails flooded in as they always do, each offering their own brand of insight. Being told that Fleetwood Mac's The Chain was my most listened-to song of 2025 was a pleasant reminder of my nine-year-old son listening to it on repeat for months on end whilst he practised the drum part for a school concert in the summer term (which he absolutely nailed).

@@ -32,6 +32,7 @@ tags:
   - zettelkasten
   - obsidian
   - writing
+  - chain-of-cognition
 ---
 
 I just got back from a week in Iceland. The raw natural landscape floors you. Volcanic rock, glacial water, silence you can feel in your chest.

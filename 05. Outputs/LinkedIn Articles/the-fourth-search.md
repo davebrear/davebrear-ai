@@ -27,6 +27,7 @@ tags:
   - ai
   - knowledge-management
   - semantic-search
+  - chain-of-cognition
 ---
 
 *I had three ways to search my second brain. Adding a fourth made the first three better.*

@@ -17,6 +17,7 @@ tags:
   - ai
   - knowledge-management
   - productivity
+  - chain-of-cognition
 ---
 
 Several people have asked me how to set up an AI powered knowledge management system. They send me AI-generated infographics like: "8 steps to build your AI workspace." Specific folder structures, specific tools, specific plugins.

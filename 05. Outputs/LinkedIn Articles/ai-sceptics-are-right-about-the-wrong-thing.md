@@ -26,6 +26,7 @@ tags:
   - enterprise
   - markets
   - critical-thinking
+  - chain-of-cognition
 ---
 
 Nvidia dipped to a year-to-date low this week. The comment sections wrote themselves, as they always do. "The AI bubble is finally bursting." "Good, now I can buy RAM again." "Who needs AI slop anyway?" There was a certain satisfaction in the air, the satisfaction of people who had been waiting for permission to stop paying attention.

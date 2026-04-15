@@ -19,6 +19,7 @@ tags:
   - augmented-cognition
   - critical-thinking
   - reheated-thinking
+  - chain-of-cognition
 ---
 
 # Cook, Don't Reheat

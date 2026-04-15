@@ -23,6 +23,7 @@ tags:
   - enterprise
   - knowledge-management
   - architecture
+  - chain-of-cognition
 ---
 
 *Wardrobes, storage units, and why your AI strategy shouldn't be screwed to the wall.*

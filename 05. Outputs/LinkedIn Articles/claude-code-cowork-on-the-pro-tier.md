@@ -13,6 +13,7 @@ tags:
   - ai
   - claude-code
   - productivity
+  - chain-of-cognition
 ---
 
 I've been watching the Claude Code hype from a safe distance. Terminal-based AI? Agents that can read your files? It sounded impressive, but I had a perfectly functional ChatGPT workflow. Why fix what isn't broken?
