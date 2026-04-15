@@ -1,7 +1,7 @@
 ---
 title: "Cook, Don't Reheat"
 type: article
-date: 2026-04-16
+date: 2026-04-15
 summary: "Why AI is breeding a new kind of intellectual fraud."
 source_url: ""
 atoms:
@@ -45,7 +45,7 @@ Think about what you actually do when you write something worth reading. You dec
 
 Agree or disagree with what's on the page - that cognitive backbone is what makes a piece worth engaging with in the first place. The measure of an idea is the clarity of its reasoning, not necessarily whether it matches your own views.
 
-Slop has none of that. The vehicle is full, but the cargo is not yours. Everyone is reheating from the same handful of foundation models, so every driver's cargo looks the same - identical packages from identical warehouses. There is a self-interest argument inside this. Even setting intellectual honesty aside, you are being publicly judged on opinions you have never examined. Not opinions you disagree with, opinions you have never actually tested. You did not pick the ingredients. You do not know what is in the meal. Once your name is on it, the public will not make that distinction. You are exposed and invisible at the same time.
+Slop has none of that. The vehicle is full, but the cargo is not yours. Everyone is 'loading' from the same handful of foundation models, so every driver's cargo looks the same - identical packages from identical warehouses. There is a self-interest argument inside this. Even setting intellectual honesty aside, you are being publicly judged on opinions you have never examined. Not opinions you disagree with, opinions you have never actually tested. Once your name is on it, the public will not make that distinction. You are both exposed and invisible at the same time.
 
 Why is there so much of this? Because a lot of public writing is not on the road to deliver an idea. It is in a parade, painted in team colours, driven where the right people will see it. When being seen by your side is the goal, the cargo only needs to be *recognisable*, not *good* - and AI fills those trailers cheap and fast. The conclusion is settled before the reasoning starts, because the conclusion is the point. Both sides do it.
 
