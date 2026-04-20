@@ -95,4 +95,4 @@ Ideas are nutritious. The world is better when real ones are shared. AI can be t
 
 Remember the violin? The grating beginners are everywhere right now, and they will be for a while. But the instrument is real. In skilled hands it will let us make music we could not make alone: elevated by the tool but still moving, still distinctly human.
 
-That is work worth doing. Next week: the test that tells you whether you are doing it or not.
+That is work worth doing. Next week: how to cook instead. I call it Chain of Cognition.
