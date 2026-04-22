@@ -61,6 +61,11 @@
       "path": "05. Outputs/LinkedIn Articles/ai-sceptics-are-right-about-the-wrong-thing.md"
     },
     {
+      "id": "chain-of-cognition-how-to-cook-instead",
+      "type": "article",
+      "path": "05. Outputs/LinkedIn Articles/chain-of-cognition-how-to-cook-instead.md"
+    },
+    {
       "id": "how-to-start-building-your-ai-knowledge-system",
       "type": "article",
       "path": "05. Outputs/LinkedIn Articles/how-to-start-building-your-ai-knowledge-system.md"
@@ -169,6 +174,11 @@
       "id": "the-experience-gap",
       "type": "atom",
       "path": "03. Atomic Notes/the-experience-gap.md"
+    },
+    {
+      "id": "personal-encryption-as-talent-market-signal",
+      "type": "atom",
+      "path": "03. Atomic Notes/personal-encryption-as-talent-market-signal.md"
     },
     {
       "id": "links-do-the-work",
@@ -371,6 +381,11 @@
       "path": "03. Atomic Notes/four-modalities-of-search.md"
     },
     {
+      "id": "the-secret-sauce-is-judgement",
+      "type": "atom",
+      "path": "03. Atomic Notes/the-secret-sauce-is-judgement.md"
+    },
+    {
       "id": "ai-sceptics-and-altavista",
       "type": "atom",
       "path": "03. Atomic Notes/ai-sceptics-and-altavista.md"
@@ -414,6 +429,11 @@
       "id": "the-context-layer",
       "type": "atom",
       "path": "03. Atomic Notes/the-context-layer.md"
+    },
+    {
+      "id": "context-stack-in-chain-of-cognition",
+      "type": "atom",
+      "path": "03. Atomic Notes/context-stack-in-chain-of-cognition.md"
     },
     {
       "id": "one-idea-per-note",
@@ -464,6 +484,11 @@
       "id": "tolerance-for-uncertainty",
       "type": "atom",
       "path": "03. Atomic Notes/tolerance-for-uncertainty.md"
+    },
+    {
+      "id": "the-vault-extraction-fallacy",
+      "type": "atom",
+      "path": "03. Atomic Notes/the-vault-extraction-fallacy.md"
     },
     {
       "id": "shadow-ai-follows-the-shadow-it-pattern",
@@ -541,6 +566,11 @@
       "path": "04. MOCs/MOC - Cook, Don't Reheat.md"
     },
     {
+      "id": "MOC - Chain of Cognition",
+      "type": "moc",
+      "path": "04. MOCs/MOC - Chain of Cognition.md"
+    },
+    {
       "id": "MOC - How to Start Building Your AI Knowledge System",
       "type": "moc",
       "path": "04. MOCs/MOC - How to Start Building Your AI Knowledge System.md"
@@ -587,11 +617,11 @@
     },
     {
       "source": "developing-thinking",
-      "target": "reheated-thinking"
+      "target": "ai-as-co-thinker"
     },
     {
       "source": "developing-thinking",
-      "target": "the-freezer-and-the-sous-chef"
+      "target": "reheated-thinking"
     },
     {
       "source": "developing-thinking",
@@ -599,15 +629,11 @@
     },
     {
       "source": "developing-thinking",
-      "target": "ai-as-co-thinker"
+      "target": "the-governance-gap"
     },
     {
       "source": "developing-thinking",
-      "target": "the-experience-gap"
-    },
-    {
-      "source": "developing-thinking",
-      "target": "ai-generated-knowledge-vs-ai-augmented-thinking"
+      "target": "shadow-ai-follows-the-shadow-it-pattern"
     },
     {
       "source": "developing-thinking",
@@ -615,7 +641,15 @@
     },
     {
       "source": "developing-thinking",
-      "target": "can-a-second-brain-be-shared"
+      "target": "the-experience-gap"
+    },
+    {
+      "source": "developing-thinking",
+      "target": "one-idea-per-note"
+    },
+    {
+      "source": "developing-thinking",
+      "target": "chain-of-cognition"
     },
     {
       "source": "developing-thinking",
@@ -627,19 +661,31 @@
     },
     {
       "source": "developing-thinking",
-      "target": "chain-of-cognition"
+      "target": "ai-generated-knowledge-vs-ai-augmented-thinking"
     },
     {
       "source": "developing-thinking",
-      "target": "one-idea-per-note"
+      "target": "the-freezer-and-the-sous-chef"
     },
     {
       "source": "developing-thinking",
-      "target": "shadow-ai-follows-the-shadow-it-pattern"
+      "target": "can-a-second-brain-be-shared"
     },
     {
-      "source": "developing-thinking",
-      "target": "the-governance-gap"
+      "source": "AGENTS",
+      "target": "echo-chamber-steering"
+    },
+    {
+      "source": "AGENTS",
+      "target": "compound-interest-on-thinking"
+    },
+    {
+      "source": "AGENTS",
+      "target": "MOC - The Fourth Search"
+    },
+    {
+      "source": "AGENTS",
+      "target": "ai-makes-thinking-harder-not-easier"
     },
     {
       "source": "AGENTS",
@@ -647,11 +693,31 @@
     },
     {
       "source": "AGENTS",
+      "target": "the-atrophy-argument"
+    },
+    {
+      "source": "AGENTS",
       "target": "get-interviewed-by-the-ai"
     },
     {
       "source": "AGENTS",
-      "target": "MOC - The Fourth Search"
+      "target": "context-is-the-differentiator"
+    },
+    {
+      "source": "AGENTS",
+      "target": "start-with-a-real-task"
+    },
+    {
+      "source": "AGENTS",
+      "target": "let-structure-emerge"
+    },
+    {
+      "source": "AGENTS",
+      "target": "from-answers-to-pressure"
+    },
+    {
+      "source": "AGENTS",
+      "target": "MOC - How I Turn Scattered Ideas into Finished Writing"
     },
     {
       "source": "AGENTS",
@@ -662,40 +728,20 @@
       "target": "three-levels-of-ai-usage"
     },
     {
-      "source": "AGENTS",
-      "target": "context-is-the-differentiator"
-    },
-    {
-      "source": "AGENTS",
-      "target": "ai-makes-thinking-harder-not-easier"
-    },
-    {
-      "source": "AGENTS",
-      "target": "from-answers-to-pressure"
-    },
-    {
-      "source": "AGENTS",
-      "target": "compound-interest-on-thinking"
-    },
-    {
-      "source": "AGENTS",
-      "target": "the-atrophy-argument"
-    },
-    {
-      "source": "AGENTS",
+      "source": "CLAUDE",
       "target": "echo-chamber-steering"
     },
     {
-      "source": "AGENTS",
-      "target": "let-structure-emerge"
+      "source": "CLAUDE",
+      "target": "compound-interest-on-thinking"
     },
     {
-      "source": "AGENTS",
-      "target": "MOC - How I Turn Scattered Ideas into Finished Writing"
+      "source": "CLAUDE",
+      "target": "MOC - The Fourth Search"
     },
     {
-      "source": "AGENTS",
-      "target": "start-with-a-real-task"
+      "source": "CLAUDE",
+      "target": "ai-makes-thinking-harder-not-easier"
     },
     {
       "source": "CLAUDE",
@@ -703,11 +749,31 @@
     },
     {
       "source": "CLAUDE",
+      "target": "the-atrophy-argument"
+    },
+    {
+      "source": "CLAUDE",
       "target": "get-interviewed-by-the-ai"
     },
     {
       "source": "CLAUDE",
-      "target": "MOC - The Fourth Search"
+      "target": "context-is-the-differentiator"
+    },
+    {
+      "source": "CLAUDE",
+      "target": "start-with-a-real-task"
+    },
+    {
+      "source": "CLAUDE",
+      "target": "let-structure-emerge"
+    },
+    {
+      "source": "CLAUDE",
+      "target": "from-answers-to-pressure"
+    },
+    {
+      "source": "CLAUDE",
+      "target": "MOC - How I Turn Scattered Ideas into Finished Writing"
     },
     {
       "source": "CLAUDE",
@@ -718,40 +784,20 @@
       "target": "three-levels-of-ai-usage"
     },
     {
-      "source": "CLAUDE",
-      "target": "context-is-the-differentiator"
+      "source": "from-asking-answers-to-applying-pressure",
+      "target": "positions-not-explanations"
     },
     {
-      "source": "CLAUDE",
+      "source": "from-asking-answers-to-applying-pressure",
+      "target": "deliberate-incompleteness"
+    },
+    {
+      "source": "from-asking-answers-to-applying-pressure",
       "target": "ai-makes-thinking-harder-not-easier"
     },
     {
-      "source": "CLAUDE",
-      "target": "from-answers-to-pressure"
-    },
-    {
-      "source": "CLAUDE",
-      "target": "compound-interest-on-thinking"
-    },
-    {
-      "source": "CLAUDE",
-      "target": "the-atrophy-argument"
-    },
-    {
-      "source": "CLAUDE",
-      "target": "echo-chamber-steering"
-    },
-    {
-      "source": "CLAUDE",
-      "target": "let-structure-emerge"
-    },
-    {
-      "source": "CLAUDE",
-      "target": "MOC - How I Turn Scattered Ideas into Finished Writing"
-    },
-    {
-      "source": "CLAUDE",
-      "target": "start-with-a-real-task"
+      "source": "from-asking-answers-to-applying-pressure",
+      "target": "authorship-lives-in-judgement"
     },
     {
       "source": "from-asking-answers-to-applying-pressure",
@@ -763,11 +809,7 @@
     },
     {
       "source": "from-asking-answers-to-applying-pressure",
-      "target": "ai-outputs-are-inputs"
-    },
-    {
-      "source": "from-asking-answers-to-applying-pressure",
-      "target": "ai-makes-thinking-harder-not-easier"
+      "target": "from-answers-to-pressure"
     },
     {
       "source": "from-asking-answers-to-applying-pressure",
@@ -775,19 +817,7 @@
     },
     {
       "source": "from-asking-answers-to-applying-pressure",
-      "target": "from-answers-to-pressure"
-    },
-    {
-      "source": "from-asking-answers-to-applying-pressure",
-      "target": "positions-not-explanations"
-    },
-    {
-      "source": "from-asking-answers-to-applying-pressure",
-      "target": "authorship-lives-in-judgement"
-    },
-    {
-      "source": "from-asking-answers-to-applying-pressure",
-      "target": "deliberate-incompleteness"
+      "target": "ai-outputs-are-inputs"
     },
     {
       "source": "claude-code-cowork-on-the-pro-tier",
@@ -811,23 +841,7 @@
     },
     {
       "source": "the-fourth-search",
-      "target": "the-best-knowledge-layer-is-a-working-environment"
-    },
-    {
-      "source": "the-fourth-search",
-      "target": "the-context-bottleneck"
-    },
-    {
-      "source": "the-fourth-search",
-      "target": "the-flywheel"
-    },
-    {
-      "source": "the-fourth-search",
-      "target": "the-context-layer"
-    },
-    {
-      "source": "the-fourth-search",
-      "target": "context-is-the-differentiator"
+      "target": "compound-interest-on-thinking"
     },
     {
       "source": "the-fourth-search",
@@ -835,15 +849,35 @@
     },
     {
       "source": "the-fourth-search",
-      "target": "four-modalities-of-search"
+      "target": "links-do-the-work"
     },
     {
       "source": "the-fourth-search",
-      "target": "build-systems-people-think-inside"
+      "target": "keyword-search"
     },
     {
       "source": "the-fourth-search",
-      "target": "semantic-search"
+      "target": "the-link-graph"
+    },
+    {
+      "source": "the-fourth-search",
+      "target": "context-is-the-differentiator"
+    },
+    {
+      "source": "the-fourth-search",
+      "target": "the-context-bottleneck"
+    },
+    {
+      "source": "the-fourth-search",
+      "target": "the-best-knowledge-layer-is-a-working-environment"
+    },
+    {
+      "source": "the-fourth-search",
+      "target": "the-flywheel"
+    },
+    {
+      "source": "the-fourth-search",
+      "target": "the-ai-surfaces-connections-you-missed"
     },
     {
       "source": "the-fourth-search",
@@ -851,11 +885,7 @@
     },
     {
       "source": "the-fourth-search",
-      "target": "compound-interest-on-thinking"
-    },
-    {
-      "source": "the-fourth-search",
-      "target": "links-do-the-work"
+      "target": "four-modalities-of-search"
     },
     {
       "source": "the-fourth-search",
@@ -863,35 +893,23 @@
     },
     {
       "source": "the-fourth-search",
-      "target": "the-link-graph"
-    },
-    {
-      "source": "the-fourth-search",
       "target": "metadata-search"
     },
     {
       "source": "the-fourth-search",
-      "target": "keyword-search"
-    },
-    {
-      "source": "the-fourth-search",
-      "target": "the-ai-surfaces-connections-you-missed"
-    },
-    {
-      "source": "moving-house-moving-models",
-      "target": "the-workflow-package"
-    },
-    {
-      "source": "moving-house-moving-models",
-      "target": "model-portability"
-    },
-    {
-      "source": "moving-house-moving-models",
       "target": "the-context-layer"
     },
     {
+      "source": "the-fourth-search",
+      "target": "semantic-search"
+    },
+    {
+      "source": "the-fourth-search",
+      "target": "build-systems-people-think-inside"
+    },
+    {
       "source": "moving-house-moving-models",
-      "target": "vendor-memory-is-renting-furnished"
+      "target": "the-wardrobe-metaphor"
     },
     {
       "source": "moving-house-moving-models",
@@ -899,7 +917,7 @@
     },
     {
       "source": "moving-house-moving-models",
-      "target": "context-is-the-differentiator"
+      "target": "the-workflow-package"
     },
     {
       "source": "moving-house-moving-models",
@@ -911,7 +929,7 @@
     },
     {
       "source": "moving-house-moving-models",
-      "target": "the-invisible-arrangement"
+      "target": "markdown-as-universal-format"
     },
     {
       "source": "moving-house-moving-models",
@@ -919,27 +937,27 @@
     },
     {
       "source": "moving-house-moving-models",
+      "target": "model-portability"
+    },
+    {
+      "source": "moving-house-moving-models",
+      "target": "the-context-layer"
+    },
+    {
+      "source": "moving-house-moving-models",
+      "target": "context-is-the-differentiator"
+    },
+    {
+      "source": "moving-house-moving-models",
+      "target": "the-invisible-arrangement"
+    },
+    {
+      "source": "moving-house-moving-models",
+      "target": "vendor-memory-is-renting-furnished"
+    },
+    {
+      "source": "moving-house-moving-models",
       "target": "the-storage-unit-metaphor"
-    },
-    {
-      "source": "moving-house-moving-models",
-      "target": "markdown-as-universal-format"
-    },
-    {
-      "source": "moving-house-moving-models",
-      "target": "the-wardrobe-metaphor"
-    },
-    {
-      "source": "brainstorming-workflow",
-      "target": "ai-as-co-thinker"
-    },
-    {
-      "source": "brainstorming-workflow",
-      "target": "ai-expands-not-compresses"
-    },
-    {
-      "source": "brainstorming-workflow",
-      "target": "ai-outputs-are-inputs"
     },
     {
       "source": "brainstorming-workflow",
@@ -947,15 +965,7 @@
     },
     {
       "source": "brainstorming-workflow",
-      "target": "the-bullet-draft-method"
-    },
-    {
-      "source": "brainstorming-workflow",
       "target": "links-do-the-work"
-    },
-    {
-      "source": "brainstorming-workflow",
-      "target": "think-alone-first"
     },
     {
       "source": "brainstorming-workflow",
@@ -963,51 +973,7 @@
     },
     {
       "source": "brainstorming-workflow",
-      "target": "the-ai-surfaces-connections-you-missed"
-    },
-    {
-      "source": "brainstorming-workflow",
-      "target": "ai-as-infrastructure-for-thinking"
-    },
-    {
-      "source": "brainstorming-workflow",
-      "target": "the-blue-lagoon-analogy"
-    },
-    {
-      "source": "brainstorming-workflow",
       "target": "the-two-paths-converge"
-    },
-    {
-      "source": "brainstorming-workflow",
-      "target": "ai-makes-thinking-harder-not-easier"
-    },
-    {
-      "source": "brainstorming-workflow",
-      "target": "echo-chamber-steering"
-    },
-    {
-      "source": "brainstorming-workflow",
-      "target": "the-writing-is-a-byproduct"
-    },
-    {
-      "source": "brainstorming-workflow",
-      "target": "ai-as-persistent-collaborator"
-    },
-    {
-      "source": "brainstorming-workflow",
-      "target": "markdown-as-universal-format"
-    },
-    {
-      "source": "brainstorming-workflow",
-      "target": "deliberate-incompleteness"
-    },
-    {
-      "source": "brainstorming-workflow",
-      "target": "firewall-your-thinking"
-    },
-    {
-      "source": "brainstorming-workflow",
-      "target": "zettelkasten-as-thinking-system"
     },
     {
       "source": "brainstorming-workflow",
@@ -1015,11 +981,71 @@
     },
     {
       "source": "brainstorming-workflow",
+      "target": "ai-as-persistent-collaborator"
+    },
+    {
+      "source": "brainstorming-workflow",
       "target": "ai-value-is-in-the-process"
     },
     {
-      "source": "cook-dont-reheat",
-      "target": "reheated-thinking"
+      "source": "brainstorming-workflow",
+      "target": "ai-as-co-thinker"
+    },
+    {
+      "source": "brainstorming-workflow",
+      "target": "ai-as-infrastructure-for-thinking"
+    },
+    {
+      "source": "brainstorming-workflow",
+      "target": "ai-expands-not-compresses"
+    },
+    {
+      "source": "brainstorming-workflow",
+      "target": "ai-makes-thinking-harder-not-easier"
+    },
+    {
+      "source": "brainstorming-workflow",
+      "target": "markdown-as-universal-format"
+    },
+    {
+      "source": "brainstorming-workflow",
+      "target": "the-blue-lagoon-analogy"
+    },
+    {
+      "source": "brainstorming-workflow",
+      "target": "think-alone-first"
+    },
+    {
+      "source": "brainstorming-workflow",
+      "target": "the-ai-surfaces-connections-you-missed"
+    },
+    {
+      "source": "brainstorming-workflow",
+      "target": "echo-chamber-steering"
+    },
+    {
+      "source": "brainstorming-workflow",
+      "target": "the-bullet-draft-method"
+    },
+    {
+      "source": "brainstorming-workflow",
+      "target": "deliberate-incompleteness"
+    },
+    {
+      "source": "brainstorming-workflow",
+      "target": "zettelkasten-as-thinking-system"
+    },
+    {
+      "source": "brainstorming-workflow",
+      "target": "the-writing-is-a-byproduct"
+    },
+    {
+      "source": "brainstorming-workflow",
+      "target": "firewall-your-thinking"
+    },
+    {
+      "source": "brainstorming-workflow",
+      "target": "ai-outputs-are-inputs"
     },
     {
       "source": "cook-dont-reheat",
@@ -1027,11 +1053,19 @@
     },
     {
       "source": "cook-dont-reheat",
-      "target": "the-freezer-and-the-sous-chef"
+      "target": "reheated-thinking"
     },
     {
       "source": "cook-dont-reheat",
       "target": "the-instrument-is-not-the-problem"
+    },
+    {
+      "source": "cook-dont-reheat",
+      "target": "the-dinner-party-test"
+    },
+    {
+      "source": "cook-dont-reheat",
+      "target": "chain-of-cognition"
     },
     {
       "source": "cook-dont-reheat",
@@ -1043,15 +1077,11 @@
     },
     {
       "source": "cook-dont-reheat",
-      "target": "chain-of-cognition"
-    },
-    {
-      "source": "cook-dont-reheat",
       "target": "writing-as-a-delivery-vehicle"
     },
     {
       "source": "cook-dont-reheat",
-      "target": "the-dinner-party-test"
+      "target": "the-freezer-and-the-sous-chef"
     },
     {
       "source": "ai-sceptics-are-right-about-the-wrong-thing",
@@ -1059,51 +1089,7 @@
     },
     {
       "source": "ai-sceptics-are-right-about-the-wrong-thing",
-      "target": "ai-as-co-thinker"
-    },
-    {
-      "source": "ai-sceptics-are-right-about-the-wrong-thing",
-      "target": "the-experience-gap"
-    },
-    {
-      "source": "ai-sceptics-are-right-about-the-wrong-thing",
-      "target": "the-brilliant-colleague-with-amnesia"
-    },
-    {
-      "source": "ai-sceptics-are-right-about-the-wrong-thing",
-      "target": "the-saaspocalypse"
-    },
-    {
-      "source": "ai-sceptics-are-right-about-the-wrong-thing",
-      "target": "tolerance-for-uncertainty"
-    },
-    {
-      "source": "ai-sceptics-are-right-about-the-wrong-thing",
-      "target": "the-atrophy-argument"
-    },
-    {
-      "source": "ai-sceptics-are-right-about-the-wrong-thing",
-      "target": "three-levels-of-ai-usage"
-    },
-    {
-      "source": "ai-sceptics-are-right-about-the-wrong-thing",
-      "target": "from-answers-to-pressure"
-    },
-    {
-      "source": "ai-sceptics-are-right-about-the-wrong-thing",
       "target": "ai-makes-thinking-harder-not-easier"
-    },
-    {
-      "source": "ai-sceptics-are-right-about-the-wrong-thing",
-      "target": "ai-sceptics-and-altavista"
-    },
-    {
-      "source": "ai-sceptics-are-right-about-the-wrong-thing",
-      "target": "context-is-the-differentiator"
-    },
-    {
-      "source": "ai-sceptics-are-right-about-the-wrong-thing",
-      "target": "rubber-duck-that-pushes-back"
     },
     {
       "source": "ai-sceptics-are-right-about-the-wrong-thing",
@@ -1111,11 +1097,91 @@
     },
     {
       "source": "ai-sceptics-are-right-about-the-wrong-thing",
+      "target": "the-atrophy-argument"
+    },
+    {
+      "source": "ai-sceptics-are-right-about-the-wrong-thing",
+      "target": "ai-sceptics-and-altavista"
+    },
+    {
+      "source": "ai-sceptics-are-right-about-the-wrong-thing",
       "target": "the-dotcom-comparison"
     },
     {
       "source": "ai-sceptics-are-right-about-the-wrong-thing",
+      "target": "context-is-the-differentiator"
+    },
+    {
+      "source": "ai-sceptics-are-right-about-the-wrong-thing",
+      "target": "from-answers-to-pressure"
+    },
+    {
+      "source": "ai-sceptics-are-right-about-the-wrong-thing",
+      "target": "tolerance-for-uncertainty"
+    },
+    {
+      "source": "ai-sceptics-are-right-about-the-wrong-thing",
+      "target": "the-brilliant-colleague-with-amnesia"
+    },
+    {
+      "source": "ai-sceptics-are-right-about-the-wrong-thing",
       "target": "the-rocket-stages-metaphor"
+    },
+    {
+      "source": "ai-sceptics-are-right-about-the-wrong-thing",
+      "target": "rubber-duck-that-pushes-back"
+    },
+    {
+      "source": "ai-sceptics-are-right-about-the-wrong-thing",
+      "target": "the-saaspocalypse"
+    },
+    {
+      "source": "ai-sceptics-are-right-about-the-wrong-thing",
+      "target": "the-experience-gap"
+    },
+    {
+      "source": "ai-sceptics-are-right-about-the-wrong-thing",
+      "target": "ai-as-co-thinker"
+    },
+    {
+      "source": "ai-sceptics-are-right-about-the-wrong-thing",
+      "target": "three-levels-of-ai-usage"
+    },
+    {
+      "source": "chain-of-cognition-how-to-cook-instead",
+      "target": "augmented-cognition"
+    },
+    {
+      "source": "chain-of-cognition-how-to-cook-instead",
+      "target": "reheated-thinking"
+    },
+    {
+      "source": "chain-of-cognition-how-to-cook-instead",
+      "target": "the-vault-extraction-fallacy"
+    },
+    {
+      "source": "chain-of-cognition-how-to-cook-instead",
+      "target": "the-secret-sauce-is-judgement"
+    },
+    {
+      "source": "chain-of-cognition-how-to-cook-instead",
+      "target": "chain-of-cognition"
+    },
+    {
+      "source": "chain-of-cognition-how-to-cook-instead",
+      "target": "personal-encryption-as-talent-market-signal"
+    },
+    {
+      "source": "chain-of-cognition-how-to-cook-instead",
+      "target": "context-stack-in-chain-of-cognition"
+    },
+    {
+      "source": "chain-of-cognition-how-to-cook-instead",
+      "target": "ai-outputs-are-inputs"
+    },
+    {
+      "source": "how-to-start-building-your-ai-knowledge-system",
+      "target": "organise-by-description-not-location"
     },
     {
       "source": "how-to-start-building-your-ai-knowledge-system",
@@ -1123,19 +1189,7 @@
     },
     {
       "source": "how-to-start-building-your-ai-knowledge-system",
-      "target": "the-context-layer"
-    },
-    {
-      "source": "how-to-start-building-your-ai-knowledge-system",
       "target": "start-with-a-real-task"
-    },
-    {
-      "source": "how-to-start-building-your-ai-knowledge-system",
-      "target": "ai-outputs-are-inputs"
-    },
-    {
-      "source": "how-to-start-building-your-ai-knowledge-system",
-      "target": "firewall-your-thinking"
     },
     {
       "source": "how-to-start-building-your-ai-knowledge-system",
@@ -1143,11 +1197,23 @@
     },
     {
       "source": "how-to-start-building-your-ai-knowledge-system",
-      "target": "build-systems-people-think-inside"
+      "target": "the-context-layer"
     },
     {
       "source": "how-to-start-building-your-ai-knowledge-system",
-      "target": "organise-by-description-not-location"
+      "target": "firewall-your-thinking"
+    },
+    {
+      "source": "how-to-start-building-your-ai-knowledge-system",
+      "target": "ai-outputs-are-inputs"
+    },
+    {
+      "source": "how-to-start-building-your-ai-knowledge-system",
+      "target": "build-systems-people-think-inside"
+    },
+    {
+      "source": "markdown-as-universal-format",
+      "target": "model-portability"
     },
     {
       "source": "markdown-as-universal-format",
@@ -1156,10 +1222,6 @@
     {
       "source": "markdown-as-universal-format",
       "target": "vendor-memory-is-renting-furnished"
-    },
-    {
-      "source": "markdown-as-universal-format",
-      "target": "model-portability"
     },
     {
       "source": "the-link-graph",
@@ -1175,7 +1237,7 @@
     },
     {
       "source": "reheated-thinking",
-      "target": "the-freezer-and-the-sous-chef"
+      "target": "the-instrument-is-not-the-problem"
     },
     {
       "source": "reheated-thinking",
@@ -1183,7 +1245,7 @@
     },
     {
       "source": "reheated-thinking",
-      "target": "the-instrument-is-not-the-problem"
+      "target": "the-dinner-party-test"
     },
     {
       "source": "reheated-thinking",
@@ -1195,11 +1257,7 @@
     },
     {
       "source": "reheated-thinking",
-      "target": "the-dinner-party-test"
-    },
-    {
-      "source": "local-model-beats-frontier-without-context",
-      "target": "markdown-as-universal-format"
+      "target": "the-freezer-and-the-sous-chef"
     },
     {
       "source": "local-model-beats-frontier-without-context",
@@ -1207,11 +1265,15 @@
     },
     {
       "source": "local-model-beats-frontier-without-context",
+      "target": "the-context-layer"
+    },
+    {
+      "source": "local-model-beats-frontier-without-context",
       "target": "model-portability"
     },
     {
       "source": "local-model-beats-frontier-without-context",
-      "target": "the-context-layer"
+      "target": "markdown-as-universal-format"
     },
     {
       "source": "the-saaspocalypse",
@@ -1219,15 +1281,15 @@
     },
     {
       "source": "the-saaspocalypse",
-      "target": "the-rocket-stages-metaphor"
-    },
-    {
-      "source": "the-saaspocalypse",
       "target": "ai-sceptics-and-altavista"
     },
     {
+      "source": "the-saaspocalypse",
+      "target": "the-rocket-stages-metaphor"
+    },
+    {
       "source": "think-alone-first",
-      "target": "one-idea-per-note"
+      "target": "let-structure-emerge"
     },
     {
       "source": "think-alone-first",
@@ -1235,7 +1297,11 @@
     },
     {
       "source": "think-alone-first",
-      "target": "let-structure-emerge"
+      "target": "one-idea-per-note"
+    },
+    {
+      "source": "rate-limits-as-forcing-function",
+      "target": "the-context-bottleneck"
     },
     {
       "source": "rate-limits-as-forcing-function",
@@ -1246,16 +1312,12 @@
       "target": "local-model-beats-frontier-without-context"
     },
     {
-      "source": "rate-limits-as-forcing-function",
-      "target": "the-context-bottleneck"
-    },
-    {
-      "source": "optimising-context-for-ai",
-      "target": "four-modalities-of-search"
-    },
-    {
       "source": "optimising-context-for-ai",
       "target": "metadata-search"
+    },
+    {
+      "source": "optimising-context-for-ai",
+      "target": "the-context-bottleneck"
     },
     {
       "source": "optimising-context-for-ai",
@@ -1263,11 +1325,7 @@
     },
     {
       "source": "optimising-context-for-ai",
-      "target": "the-context-bottleneck"
-    },
-    {
-      "source": "compound-interest-on-thinking",
-      "target": "vendor-memory-is-renting-furnished"
+      "target": "four-modalities-of-search"
     },
     {
       "source": "compound-interest-on-thinking",
@@ -1278,8 +1336,8 @@
       "target": "the-context-layer"
     },
     {
-      "source": "ai-as-co-thinker",
-      "target": "rubber-duck-that-pushes-back"
+      "source": "compound-interest-on-thinking",
+      "target": "vendor-memory-is-renting-furnished"
     },
     {
       "source": "ai-as-co-thinker",
@@ -1290,8 +1348,8 @@
       "target": "the-brilliant-colleague-with-amnesia"
     },
     {
-      "source": "ai-slop",
-      "target": "reheated-thinking"
+      "source": "ai-as-co-thinker",
+      "target": "rubber-duck-that-pushes-back"
     },
     {
       "source": "ai-slop",
@@ -1300,6 +1358,14 @@
     {
       "source": "ai-slop",
       "target": "meaning-shaped-slop"
+    },
+    {
+      "source": "ai-slop",
+      "target": "reheated-thinking"
+    },
+    {
+      "source": "the-flywheel",
+      "target": "the-context-bottleneck"
     },
     {
       "source": "the-flywheel",
@@ -1311,19 +1377,7 @@
     },
     {
       "source": "the-flywheel",
-      "target": "the-context-bottleneck"
-    },
-    {
-      "source": "the-flywheel",
       "target": "the-ai-surfaces-connections-you-missed"
-    },
-    {
-      "source": "chain-of-cognition",
-      "target": "the-freezer-and-the-sous-chef"
-    },
-    {
-      "source": "chain-of-cognition",
-      "target": "ai-outputs-are-inputs"
     },
     {
       "source": "chain-of-cognition",
@@ -1334,6 +1388,14 @@
       "target": "the-dinner-party-test"
     },
     {
+      "source": "chain-of-cognition",
+      "target": "the-freezer-and-the-sous-chef"
+    },
+    {
+      "source": "chain-of-cognition",
+      "target": "ai-outputs-are-inputs"
+    },
+    {
       "source": "continuity-is-the-value",
       "target": "ai-as-persistent-collaborator"
     },
@@ -1348,14 +1410,6 @@
     {
       "source": "continuity-is-the-value",
       "target": "the-brilliant-colleague-with-amnesia"
-    },
-    {
-      "source": "context-is-the-differentiator",
-      "target": "the-context-layer"
-    },
-    {
-      "source": "context-is-the-differentiator",
-      "target": "local-model-beats-frontier-without-context"
     },
     {
       "source": "context-is-the-differentiator",
@@ -1363,7 +1417,15 @@
     },
     {
       "source": "context-is-the-differentiator",
+      "target": "local-model-beats-frontier-without-context"
+    },
+    {
+      "source": "context-is-the-differentiator",
       "target": "the-brilliant-colleague-with-amnesia"
+    },
+    {
+      "source": "context-is-the-differentiator",
+      "target": "the-context-layer"
     },
     {
       "source": "the-ai-surfaces-connections-you-missed",
@@ -1371,7 +1433,7 @@
     },
     {
       "source": "the-ai-surfaces-connections-you-missed",
-      "target": "the-link-graph"
+      "target": "the-flywheel"
     },
     {
       "source": "the-ai-surfaces-connections-you-missed",
@@ -1379,7 +1441,11 @@
     },
     {
       "source": "the-ai-surfaces-connections-you-missed",
-      "target": "the-flywheel"
+      "target": "the-link-graph"
+    },
+    {
+      "source": "three-levels-of-ai-usage",
+      "target": "ai-as-co-thinker"
     },
     {
       "source": "three-levels-of-ai-usage",
@@ -1391,15 +1457,11 @@
     },
     {
       "source": "three-levels-of-ai-usage",
-      "target": "ai-as-co-thinker"
-    },
-    {
-      "source": "three-levels-of-ai-usage",
       "target": "ai-sceptics-and-altavista"
     },
     {
       "source": "ai-as-persistent-collaborator",
-      "target": "continuity-is-the-value"
+      "target": "the-experience-gap"
     },
     {
       "source": "ai-as-persistent-collaborator",
@@ -1407,7 +1469,15 @@
     },
     {
       "source": "ai-as-persistent-collaborator",
-      "target": "the-experience-gap"
+      "target": "continuity-is-the-value"
+    },
+    {
+      "source": "the-wardrobe-metaphor",
+      "target": "model-portability"
+    },
+    {
+      "source": "the-wardrobe-metaphor",
+      "target": "markdown-as-universal-format"
     },
     {
       "source": "the-wardrobe-metaphor",
@@ -1418,18 +1488,6 @@
       "target": "the-storage-unit-metaphor"
     },
     {
-      "source": "the-wardrobe-metaphor",
-      "target": "markdown-as-universal-format"
-    },
-    {
-      "source": "the-wardrobe-metaphor",
-      "target": "model-portability"
-    },
-    {
-      "source": "the-workflow-package",
-      "target": "context-is-the-differentiator"
-    },
-    {
       "source": "the-workflow-package",
       "target": "model-portability"
     },
@@ -1438,8 +1496,12 @@
       "target": "the-context-layer"
     },
     {
+      "source": "the-workflow-package",
+      "target": "context-is-the-differentiator"
+    },
+    {
       "source": "the-experience-gap",
-      "target": "the-atrophy-argument"
+      "target": "ai-sceptics-and-altavista"
     },
     {
       "source": "the-experience-gap",
@@ -1447,15 +1509,23 @@
     },
     {
       "source": "the-experience-gap",
-      "target": "ai-sceptics-and-altavista"
+      "target": "the-atrophy-argument"
     },
     {
-      "source": "links-do-the-work",
-      "target": "one-idea-per-note"
+      "source": "personal-encryption-as-talent-market-signal",
+      "target": "chain-of-cognition"
     },
     {
-      "source": "links-do-the-work",
-      "target": "the-link-graph"
+      "source": "personal-encryption-as-talent-market-signal",
+      "target": "the-secret-sauce-is-judgement"
+    },
+    {
+      "source": "personal-encryption-as-talent-market-signal",
+      "target": "context-stack-in-chain-of-cognition"
+    },
+    {
+      "source": "personal-encryption-as-talent-market-signal",
+      "target": "the-vault-extraction-fallacy"
     },
     {
       "source": "links-do-the-work",
@@ -1466,12 +1536,12 @@
       "target": "the-flywheel"
     },
     {
-      "source": "vendor-memory-is-renting-furnished",
-      "target": "the-context-layer"
+      "source": "links-do-the-work",
+      "target": "one-idea-per-note"
     },
     {
-      "source": "vendor-memory-is-renting-furnished",
-      "target": "model-portability"
+      "source": "links-do-the-work",
+      "target": "the-link-graph"
     },
     {
       "source": "vendor-memory-is-renting-furnished",
@@ -1479,11 +1549,19 @@
     },
     {
       "source": "vendor-memory-is-renting-furnished",
-      "target": "the-storage-unit-metaphor"
+      "target": "markdown-as-universal-format"
     },
     {
       "source": "vendor-memory-is-renting-furnished",
-      "target": "markdown-as-universal-format"
+      "target": "model-portability"
+    },
+    {
+      "source": "vendor-memory-is-renting-furnished",
+      "target": "the-context-layer"
+    },
+    {
+      "source": "vendor-memory-is-renting-furnished",
+      "target": "the-storage-unit-metaphor"
     },
     {
       "source": "start-with-a-real-task",
@@ -1496,6 +1574,10 @@
     {
       "source": "start-with-a-real-task",
       "target": "the-flywheel"
+    },
+    {
+      "source": "the-governance-gap",
+      "target": "the-context-layer"
     },
     {
       "source": "the-governance-gap",
@@ -1506,12 +1588,12 @@
       "target": "vendor-memory-is-renting-furnished"
     },
     {
-      "source": "the-governance-gap",
-      "target": "the-context-layer"
+      "source": "meaning-shaped-slop",
+      "target": "reheated-thinking"
     },
     {
       "source": "meaning-shaped-slop",
-      "target": "reheated-thinking"
+      "target": "the-dinner-party-test"
     },
     {
       "source": "meaning-shaped-slop",
@@ -1522,8 +1604,8 @@
       "target": "writing-as-a-delivery-vehicle"
     },
     {
-      "source": "meaning-shaped-slop",
-      "target": "the-dinner-party-test"
+      "source": "chaining-search-modalities",
+      "target": "human-judgement-vs-machine-understanding"
     },
     {
       "source": "chaining-search-modalities",
@@ -1535,15 +1617,7 @@
     },
     {
       "source": "chaining-search-modalities",
-      "target": "human-judgement-vs-machine-understanding"
-    },
-    {
-      "source": "chaining-search-modalities",
       "target": "four-modalities-of-search"
-    },
-    {
-      "source": "positions-not-explanations",
-      "target": "ai-makes-thinking-harder-not-easier"
     },
     {
       "source": "positions-not-explanations",
@@ -1551,15 +1625,19 @@
     },
     {
       "source": "positions-not-explanations",
+      "target": "ai-makes-thinking-harder-not-easier"
+    },
+    {
+      "source": "positions-not-explanations",
       "target": "authorship-lives-in-judgement"
     },
     {
       "source": "can-a-second-brain-be-shared",
-      "target": "one-idea-per-note"
+      "target": "what-happens-when-everyone-has-a-second-brain"
     },
     {
       "source": "can-a-second-brain-be-shared",
-      "target": "the-link-graph"
+      "target": "one-idea-per-note"
     },
     {
       "source": "can-a-second-brain-be-shared",
@@ -1567,11 +1645,7 @@
     },
     {
       "source": "can-a-second-brain-be-shared",
-      "target": "what-happens-when-everyone-has-a-second-brain"
-    },
-    {
-      "source": "get-interviewed-by-the-ai",
-      "target": "start-with-a-real-task"
+      "target": "the-link-graph"
     },
     {
       "source": "get-interviewed-by-the-ai",
@@ -1579,11 +1653,11 @@
     },
     {
       "source": "get-interviewed-by-the-ai",
-      "target": "the-context-layer"
+      "target": "start-with-a-real-task"
     },
     {
-      "source": "the-best-knowledge-layer-is-a-working-environment",
-      "target": "the-writing-is-a-byproduct"
+      "source": "get-interviewed-by-the-ai",
+      "target": "the-context-layer"
     },
     {
       "source": "the-best-knowledge-layer-is-a-working-environment",
@@ -1591,11 +1665,15 @@
     },
     {
       "source": "the-best-knowledge-layer-is-a-working-environment",
+      "target": "the-writing-is-a-byproduct"
+    },
+    {
+      "source": "the-best-knowledge-layer-is-a-working-environment",
       "target": "build-systems-people-think-inside"
     },
     {
       "source": "map-of-content",
-      "target": "the-writing-is-a-byproduct"
+      "target": "links-do-the-work"
     },
     {
       "source": "map-of-content",
@@ -1603,7 +1681,7 @@
     },
     {
       "source": "map-of-content",
-      "target": "links-do-the-work"
+      "target": "the-writing-is-a-byproduct"
     },
     {
       "source": "the-credential-problem",
@@ -1619,11 +1697,11 @@
     },
     {
       "source": "authorship-lives-in-judgement",
-      "target": "the-two-paths-converge"
+      "target": "ai-outputs-are-inputs"
     },
     {
       "source": "authorship-lives-in-judgement",
-      "target": "ai-outputs-are-inputs"
+      "target": "the-two-paths-converge"
     },
     {
       "source": "authorship-lives-in-judgement",
@@ -1635,15 +1713,11 @@
     },
     {
       "source": "the-rocket-stages-metaphor",
-      "target": "ai-sceptics-and-altavista"
-    },
-    {
-      "source": "the-rocket-stages-metaphor",
       "target": "the-saaspocalypse"
     },
     {
-      "source": "semantic-search",
-      "target": "the-link-graph"
+      "source": "the-rocket-stages-metaphor",
+      "target": "ai-sceptics-and-altavista"
     },
     {
       "source": "semantic-search",
@@ -1651,19 +1725,15 @@
     },
     {
       "source": "semantic-search",
+      "target": "the-ai-surfaces-connections-you-missed"
+    },
+    {
+      "source": "semantic-search",
       "target": "keyword-search"
     },
     {
       "source": "semantic-search",
-      "target": "the-ai-surfaces-connections-you-missed"
-    },
-    {
-      "source": "the-brilliant-colleague-with-amnesia",
-      "target": "continuity-is-the-value"
-    },
-    {
-      "source": "the-brilliant-colleague-with-amnesia",
-      "target": "ai-as-co-thinker"
+      "target": "the-link-graph"
     },
     {
       "source": "the-brilliant-colleague-with-amnesia",
@@ -1671,7 +1741,19 @@
     },
     {
       "source": "the-brilliant-colleague-with-amnesia",
+      "target": "ai-as-co-thinker"
+    },
+    {
+      "source": "the-brilliant-colleague-with-amnesia",
+      "target": "continuity-is-the-value"
+    },
+    {
+      "source": "the-brilliant-colleague-with-amnesia",
       "target": "the-context-layer"
+    },
+    {
+      "source": "ai-expands-not-compresses",
+      "target": "ai-as-infrastructure-for-thinking"
     },
     {
       "source": "ai-expands-not-compresses",
@@ -1682,24 +1764,16 @@
       "target": "three-levels-of-ai-usage"
     },
     {
-      "source": "ai-expands-not-compresses",
-      "target": "ai-as-infrastructure-for-thinking"
-    },
-    {
       "source": "echo-chamber-steering",
       "target": "firewall-your-thinking"
-    },
-    {
-      "source": "echo-chamber-steering",
-      "target": "scepticism-of-external-ideas"
     },
     {
       "source": "echo-chamber-steering",
       "target": "from-answers-to-pressure"
     },
     {
-      "source": "the-writing-is-a-byproduct",
-      "target": "the-two-paths-converge"
+      "source": "echo-chamber-steering",
+      "target": "scepticism-of-external-ideas"
     },
     {
       "source": "the-writing-is-a-byproduct",
@@ -1711,6 +1785,10 @@
     },
     {
       "source": "the-writing-is-a-byproduct",
+      "target": "the-two-paths-converge"
+    },
+    {
+      "source": "the-writing-is-a-byproduct",
       "target": "links-do-the-work"
     },
     {
@@ -1723,19 +1801,15 @@
     },
     {
       "source": "ai-outputs-are-inputs",
-      "target": "brainstorming-workflow"
-    },
-    {
-      "source": "ai-outputs-are-inputs",
       "target": "scepticism-of-external-ideas"
     },
     {
       "source": "ai-outputs-are-inputs",
-      "target": "authorship-lives-in-judgement"
+      "target": "brainstorming-workflow"
     },
     {
-      "source": "from-answers-to-pressure",
-      "target": "rubber-duck-that-pushes-back"
+      "source": "ai-outputs-are-inputs",
+      "target": "authorship-lives-in-judgement"
     },
     {
       "source": "from-answers-to-pressure",
@@ -1746,8 +1820,8 @@
       "target": "three-levels-of-ai-usage"
     },
     {
-      "source": "ai-makes-thinking-harder-not-easier",
-      "target": "positions-not-explanations"
+      "source": "from-answers-to-pressure",
+      "target": "rubber-duck-that-pushes-back"
     },
     {
       "source": "ai-makes-thinking-harder-not-easier",
@@ -1755,15 +1829,31 @@
     },
     {
       "source": "ai-makes-thinking-harder-not-easier",
-      "target": "the-atrophy-argument"
+      "target": "echo-chamber-steering"
     },
     {
       "source": "ai-makes-thinking-harder-not-easier",
-      "target": "echo-chamber-steering"
+      "target": "positions-not-explanations"
+    },
+    {
+      "source": "ai-makes-thinking-harder-not-easier",
+      "target": "the-atrophy-argument"
     },
     {
       "source": "ai-generated-knowledge-vs-ai-augmented-thinking",
       "target": "ai-as-infrastructure-for-thinking"
+    },
+    {
+      "source": "ai-generated-knowledge-vs-ai-augmented-thinking",
+      "target": "LLM Knowledge Bases - Andrej Karpathy"
+    },
+    {
+      "source": "ai-generated-knowledge-vs-ai-augmented-thinking",
+      "target": "positions-not-explanations"
+    },
+    {
+      "source": "ai-generated-knowledge-vs-ai-augmented-thinking",
+      "target": "authorship-lives-in-judgement"
     },
     {
       "source": "ai-generated-knowledge-vs-ai-augmented-thinking",
@@ -1774,20 +1864,8 @@
       "target": "the-writing-is-a-byproduct"
     },
     {
-      "source": "ai-generated-knowledge-vs-ai-augmented-thinking",
-      "target": "positions-not-explanations"
-    },
-    {
-      "source": "ai-generated-knowledge-vs-ai-augmented-thinking",
-      "target": "LLM Knowledge Bases - Andrej Karpathy"
-    },
-    {
-      "source": "ai-generated-knowledge-vs-ai-augmented-thinking",
-      "target": "authorship-lives-in-judgement"
-    },
-    {
       "source": "the-invisible-arrangement",
-      "target": "the-storage-unit-metaphor"
+      "target": "model-portability"
     },
     {
       "source": "the-invisible-arrangement",
@@ -1795,11 +1873,7 @@
     },
     {
       "source": "the-invisible-arrangement",
-      "target": "model-portability"
-    },
-    {
-      "source": "build-systems-people-think-inside",
-      "target": "the-best-knowledge-layer-is-a-working-environment"
+      "target": "the-storage-unit-metaphor"
     },
     {
       "source": "build-systems-people-think-inside",
@@ -1807,19 +1881,15 @@
     },
     {
       "source": "build-systems-people-think-inside",
+      "target": "the-best-knowledge-layer-is-a-working-environment"
+    },
+    {
+      "source": "build-systems-people-think-inside",
       "target": "four-modalities-of-search"
     },
     {
       "source": "zettelkasten-as-thinking-system",
-      "target": "let-structure-emerge"
-    },
-    {
-      "source": "zettelkasten-as-thinking-system",
       "target": "compound-interest-on-thinking"
-    },
-    {
-      "source": "zettelkasten-as-thinking-system",
-      "target": "the-writing-is-a-byproduct"
     },
     {
       "source": "zettelkasten-as-thinking-system",
@@ -1830,8 +1900,16 @@
       "target": "one-idea-per-note"
     },
     {
+      "source": "zettelkasten-as-thinking-system",
+      "target": "let-structure-emerge"
+    },
+    {
+      "source": "zettelkasten-as-thinking-system",
+      "target": "the-writing-is-a-byproduct"
+    },
+    {
       "source": "where-does-the-human-end-and-the-ai-begin",
-      "target": "ai-as-co-thinker"
+      "target": "authorship-lives-in-judgement"
     },
     {
       "source": "where-does-the-human-end-and-the-ai-begin",
@@ -1839,11 +1917,11 @@
     },
     {
       "source": "where-does-the-human-end-and-the-ai-begin",
-      "target": "firewall-your-thinking"
+      "target": "think-alone-first"
     },
     {
       "source": "where-does-the-human-end-and-the-ai-begin",
-      "target": "think-alone-first"
+      "target": "firewall-your-thinking"
     },
     {
       "source": "where-does-the-human-end-and-the-ai-begin",
@@ -1851,11 +1929,11 @@
     },
     {
       "source": "where-does-the-human-end-and-the-ai-begin",
-      "target": "authorship-lives-in-judgement"
+      "target": "ai-as-co-thinker"
     },
     {
       "source": "ai-as-infrastructure-for-thinking",
-      "target": "one-idea-per-note"
+      "target": "the-context-layer"
     },
     {
       "source": "ai-as-infrastructure-for-thinking",
@@ -1863,7 +1941,11 @@
     },
     {
       "source": "ai-as-infrastructure-for-thinking",
-      "target": "the-context-layer"
+      "target": "one-idea-per-note"
+    },
+    {
+      "source": "keyword-search",
+      "target": "the-link-graph"
     },
     {
       "source": "keyword-search",
@@ -1875,15 +1957,11 @@
     },
     {
       "source": "keyword-search",
-      "target": "semantic-search"
-    },
-    {
-      "source": "keyword-search",
-      "target": "the-link-graph"
-    },
-    {
-      "source": "keyword-search",
       "target": "metadata-search"
+    },
+    {
+      "source": "keyword-search",
+      "target": "semantic-search"
     },
     {
       "source": "rubber-duck-that-pushes-back",
@@ -1891,19 +1969,11 @@
     },
     {
       "source": "rubber-duck-that-pushes-back",
-      "target": "ai-as-co-thinker"
-    },
-    {
-      "source": "rubber-duck-that-pushes-back",
       "target": "echo-chamber-steering"
     },
     {
-      "source": "context-aware-routing",
-      "target": "vendor-memory-is-renting-furnished"
-    },
-    {
-      "source": "context-aware-routing",
-      "target": "the-governance-gap"
+      "source": "rubber-duck-that-pushes-back",
+      "target": "ai-as-co-thinker"
     },
     {
       "source": "context-aware-routing",
@@ -1912,6 +1982,14 @@
     {
       "source": "context-aware-routing",
       "target": "the-context-layer"
+    },
+    {
+      "source": "context-aware-routing",
+      "target": "the-governance-gap"
+    },
+    {
+      "source": "context-aware-routing",
+      "target": "vendor-memory-is-renting-furnished"
     },
     {
       "source": "writing-as-a-delivery-vehicle",
@@ -1935,7 +2013,7 @@
     },
     {
       "source": "human-judgement-vs-machine-understanding",
-      "target": "semantic-search"
+      "target": "the-ai-surfaces-connections-you-missed"
     },
     {
       "source": "human-judgement-vs-machine-understanding",
@@ -1943,15 +2021,15 @@
     },
     {
       "source": "human-judgement-vs-machine-understanding",
-      "target": "the-ai-surfaces-connections-you-missed"
-    },
-    {
-      "source": "the-blue-lagoon-analogy",
-      "target": "authorship-lives-in-judgement"
+      "target": "semantic-search"
     },
     {
       "source": "the-blue-lagoon-analogy",
       "target": "ai-as-infrastructure-for-thinking"
+    },
+    {
+      "source": "the-blue-lagoon-analogy",
+      "target": "authorship-lives-in-judgement"
     },
     {
       "source": "the-blue-lagoon-analogy",
@@ -1963,15 +2041,11 @@
     },
     {
       "source": "the-bullet-draft-method",
-      "target": "ai-outputs-are-inputs"
-    },
-    {
-      "source": "the-bullet-draft-method",
       "target": "think-alone-first"
     },
     {
-      "source": "what-happens-when-everyone-has-a-second-brain",
-      "target": "the-credential-problem"
+      "source": "the-bullet-draft-method",
+      "target": "ai-outputs-are-inputs"
     },
     {
       "source": "what-happens-when-everyone-has-a-second-brain",
@@ -1979,11 +2053,19 @@
     },
     {
       "source": "what-happens-when-everyone-has-a-second-brain",
-      "target": "links-do-the-work"
+      "target": "the-credential-problem"
     },
     {
       "source": "what-happens-when-everyone-has-a-second-brain",
       "target": "the-experience-gap"
+    },
+    {
+      "source": "what-happens-when-everyone-has-a-second-brain",
+      "target": "links-do-the-work"
+    },
+    {
+      "source": "the-instrument-is-not-the-problem",
+      "target": "augmented-cognition"
     },
     {
       "source": "the-instrument-is-not-the-problem",
@@ -1994,8 +2076,16 @@
       "target": "ai-slop"
     },
     {
-      "source": "the-instrument-is-not-the-problem",
-      "target": "augmented-cognition"
+      "source": "metadata-search",
+      "target": "organise-by-description-not-location"
+    },
+    {
+      "source": "metadata-search",
+      "target": "keyword-search"
+    },
+    {
+      "source": "metadata-search",
+      "target": "the-link-graph"
     },
     {
       "source": "metadata-search",
@@ -2006,24 +2096,12 @@
       "target": "semantic-search"
     },
     {
-      "source": "metadata-search",
-      "target": "the-link-graph"
-    },
-    {
-      "source": "metadata-search",
-      "target": "organise-by-description-not-location"
-    },
-    {
-      "source": "metadata-search",
-      "target": "keyword-search"
-    },
-    {
       "source": "four-modalities-of-search",
       "target": "chaining-search-modalities"
     },
     {
       "source": "four-modalities-of-search",
-      "target": "semantic-search"
+      "target": "keyword-search"
     },
     {
       "source": "four-modalities-of-search",
@@ -2035,11 +2113,19 @@
     },
     {
       "source": "four-modalities-of-search",
-      "target": "keyword-search"
+      "target": "semantic-search"
     },
     {
-      "source": "ai-sceptics-and-altavista",
-      "target": "three-levels-of-ai-usage"
+      "source": "the-secret-sauce-is-judgement",
+      "target": "the-vault-extraction-fallacy"
+    },
+    {
+      "source": "the-secret-sauce-is-judgement",
+      "target": "chain-of-cognition"
+    },
+    {
+      "source": "the-secret-sauce-is-judgement",
+      "target": "context-stack-in-chain-of-cognition"
     },
     {
       "source": "ai-sceptics-and-altavista",
@@ -2050,24 +2136,20 @@
       "target": "the-experience-gap"
     },
     {
-      "source": "the-dinner-party-test",
-      "target": "reheated-thinking"
+      "source": "ai-sceptics-and-altavista",
+      "target": "three-levels-of-ai-usage"
     },
     {
       "source": "the-dinner-party-test",
-      "target": "chain-of-cognition"
+      "target": "reheated-thinking"
     },
     {
       "source": "the-dinner-party-test",
       "target": "authorship-lives-in-judgement"
     },
     {
-      "source": "thinking-residue",
-      "target": "the-best-knowledge-layer-is-a-working-environment"
-    },
-    {
-      "source": "thinking-residue",
-      "target": "the-link-graph"
+      "source": "the-dinner-party-test",
+      "target": "chain-of-cognition"
     },
     {
       "source": "thinking-residue",
@@ -2078,8 +2160,20 @@
       "target": "build-systems-people-think-inside"
     },
     {
+      "source": "thinking-residue",
+      "target": "the-best-knowledge-layer-is-a-working-environment"
+    },
+    {
+      "source": "thinking-residue",
+      "target": "the-link-graph"
+    },
+    {
       "source": "the-two-paths-converge",
-      "target": "the-bullet-draft-method"
+      "target": "think-alone-first"
+    },
+    {
+      "source": "the-two-paths-converge",
+      "target": "the-writing-is-a-byproduct"
     },
     {
       "source": "the-two-paths-converge",
@@ -2087,15 +2181,11 @@
     },
     {
       "source": "the-two-paths-converge",
-      "target": "the-writing-is-a-byproduct"
-    },
-    {
-      "source": "the-two-paths-converge",
-      "target": "think-alone-first"
+      "target": "the-bullet-draft-method"
     },
     {
       "source": "deliberate-incompleteness",
-      "target": "links-do-the-work"
+      "target": "compound-interest-on-thinking"
     },
     {
       "source": "deliberate-incompleteness",
@@ -2103,11 +2193,7 @@
     },
     {
       "source": "deliberate-incompleteness",
-      "target": "compound-interest-on-thinking"
-    },
-    {
-      "source": "ai-value-is-in-the-process",
-      "target": "the-writing-is-a-byproduct"
+      "target": "links-do-the-work"
     },
     {
       "source": "ai-value-is-in-the-process",
@@ -2116,6 +2202,10 @@
     {
       "source": "ai-value-is-in-the-process",
       "target": "ai-as-infrastructure-for-thinking"
+    },
+    {
+      "source": "ai-value-is-in-the-process",
+      "target": "the-writing-is-a-byproduct"
     },
     {
       "source": "organise-by-description-not-location",
@@ -2131,6 +2221,10 @@
     },
     {
       "source": "let-structure-emerge",
+      "target": "organise-by-description-not-location"
+    },
+    {
+      "source": "let-structure-emerge",
       "target": "start-with-a-real-task"
     },
     {
@@ -2138,8 +2232,12 @@
       "target": "links-do-the-work"
     },
     {
-      "source": "let-structure-emerge",
-      "target": "organise-by-description-not-location"
+      "source": "the-context-layer",
+      "target": "compound-interest-on-thinking"
+    },
+    {
+      "source": "the-context-layer",
+      "target": "markdown-as-universal-format"
     },
     {
       "source": "the-context-layer",
@@ -2151,19 +2249,27 @@
     },
     {
       "source": "the-context-layer",
-      "target": "compound-interest-on-thinking"
-    },
-    {
-      "source": "the-context-layer",
       "target": "the-storage-unit-metaphor"
     },
     {
-      "source": "the-context-layer",
-      "target": "markdown-as-universal-format"
+      "source": "context-stack-in-chain-of-cognition",
+      "target": "the-secret-sauce-is-judgement"
+    },
+    {
+      "source": "context-stack-in-chain-of-cognition",
+      "target": "the-vault-extraction-fallacy"
+    },
+    {
+      "source": "context-stack-in-chain-of-cognition",
+      "target": "chain-of-cognition"
+    },
+    {
+      "source": "context-stack-in-chain-of-cognition",
+      "target": "personal-encryption-as-talent-market-signal"
     },
     {
       "source": "one-idea-per-note",
-      "target": "the-writing-is-a-byproduct"
+      "target": "zettelkasten-as-thinking-system"
     },
     {
       "source": "one-idea-per-note",
@@ -2171,15 +2277,15 @@
     },
     {
       "source": "one-idea-per-note",
-      "target": "zettelkasten-as-thinking-system"
-    },
-    {
-      "source": "augmented-cognition",
-      "target": "reheated-thinking"
+      "target": "the-writing-is-a-byproduct"
     },
     {
       "source": "augmented-cognition",
       "target": "the-instrument-is-not-the-problem"
+    },
+    {
+      "source": "augmented-cognition",
+      "target": "reheated-thinking"
     },
     {
       "source": "augmented-cognition",
@@ -2195,14 +2301,10 @@
     },
     {
       "source": "scepticism-of-external-ideas",
-      "target": "ai-outputs-are-inputs"
-    },
-    {
-      "source": "scepticism-of-external-ideas",
       "target": "echo-chamber-steering"
     },
     {
-      "source": "firewall-your-thinking",
+      "source": "scepticism-of-external-ideas",
       "target": "ai-outputs-are-inputs"
     },
     {
@@ -2211,15 +2313,15 @@
     },
     {
       "source": "firewall-your-thinking",
+      "target": "think-alone-first"
+    },
+    {
+      "source": "firewall-your-thinking",
       "target": "scepticism-of-external-ideas"
     },
     {
       "source": "firewall-your-thinking",
-      "target": "think-alone-first"
-    },
-    {
-      "source": "the-context-bottleneck",
-      "target": "four-modalities-of-search"
+      "target": "ai-outputs-are-inputs"
     },
     {
       "source": "the-context-bottleneck",
@@ -2230,6 +2332,22 @@
       "target": "the-brilliant-colleague-with-amnesia"
     },
     {
+      "source": "the-context-bottleneck",
+      "target": "four-modalities-of-search"
+    },
+    {
+      "source": "model-portability",
+      "target": "the-wardrobe-metaphor"
+    },
+    {
+      "source": "model-portability",
+      "target": "markdown-as-universal-format"
+    },
+    {
+      "source": "model-portability",
+      "target": "local-model-beats-frontier-without-context"
+    },
+    {
       "source": "model-portability",
       "target": "the-context-layer"
     },
@@ -2238,20 +2356,8 @@
       "target": "vendor-memory-is-renting-furnished"
     },
     {
-      "source": "model-portability",
-      "target": "local-model-beats-frontier-without-context"
-    },
-    {
-      "source": "model-portability",
-      "target": "markdown-as-universal-format"
-    },
-    {
-      "source": "model-portability",
-      "target": "the-wardrobe-metaphor"
-    },
-    {
       "source": "the-atrophy-argument",
-      "target": "firewall-your-thinking"
+      "target": "echo-chamber-steering"
     },
     {
       "source": "the-atrophy-argument",
@@ -2259,7 +2365,7 @@
     },
     {
       "source": "the-atrophy-argument",
-      "target": "three-levels-of-ai-usage"
+      "target": "firewall-your-thinking"
     },
     {
       "source": "the-atrophy-argument",
@@ -2267,7 +2373,11 @@
     },
     {
       "source": "the-atrophy-argument",
-      "target": "echo-chamber-steering"
+      "target": "three-levels-of-ai-usage"
+    },
+    {
+      "source": "the-dotcom-comparison",
+      "target": "the-saaspocalypse"
     },
     {
       "source": "the-dotcom-comparison",
@@ -2278,8 +2388,12 @@
       "target": "the-rocket-stages-metaphor"
     },
     {
-      "source": "the-dotcom-comparison",
-      "target": "the-saaspocalypse"
+      "source": "the-storage-unit-metaphor",
+      "target": "the-wardrobe-metaphor"
+    },
+    {
+      "source": "the-storage-unit-metaphor",
+      "target": "markdown-as-universal-format"
     },
     {
       "source": "the-storage-unit-metaphor",
@@ -2294,12 +2408,8 @@
       "target": "the-invisible-arrangement"
     },
     {
-      "source": "the-storage-unit-metaphor",
-      "target": "markdown-as-universal-format"
-    },
-    {
-      "source": "the-storage-unit-metaphor",
-      "target": "the-wardrobe-metaphor"
+      "source": "tolerance-for-uncertainty",
+      "target": "deliberate-incompleteness"
     },
     {
       "source": "tolerance-for-uncertainty",
@@ -2307,11 +2417,23 @@
     },
     {
       "source": "tolerance-for-uncertainty",
-      "target": "deliberate-incompleteness"
+      "target": "compound-interest-on-thinking"
     },
     {
-      "source": "tolerance-for-uncertainty",
-      "target": "compound-interest-on-thinking"
+      "source": "the-vault-extraction-fallacy",
+      "target": "context-stack-in-chain-of-cognition"
+    },
+    {
+      "source": "the-vault-extraction-fallacy",
+      "target": "the-secret-sauce-is-judgement"
+    },
+    {
+      "source": "the-vault-extraction-fallacy",
+      "target": "chain-of-cognition"
+    },
+    {
+      "source": "the-vault-extraction-fallacy",
+      "target": "personal-encryption-as-talent-market-signal"
     },
     {
       "source": "shadow-ai-follows-the-shadow-it-pattern",
@@ -2319,11 +2441,11 @@
     },
     {
       "source": "shadow-ai-follows-the-shadow-it-pattern",
-      "target": "the-governance-gap"
+      "target": "keyword-search"
     },
     {
       "source": "shadow-ai-follows-the-shadow-it-pattern",
-      "target": "keyword-search"
+      "target": "the-governance-gap"
     },
     {
       "source": "Cognitive Choreography - Nate B Jones",
@@ -2335,11 +2457,11 @@
     },
     {
       "source": "OpenBrain - Nate B Jones",
-      "target": "semantic-search"
+      "target": "Cognitive Choreography - Nate B Jones"
     },
     {
       "source": "OpenBrain - Nate B Jones",
-      "target": "Cognitive Choreography - Nate B Jones"
+      "target": "semantic-search"
     },
     {
       "source": "Claude Code",
@@ -2367,11 +2489,11 @@
     },
     {
       "source": "Your Year with ChatGPT",
-      "target": "scepticism-of-external-ideas"
+      "target": "from-answers-to-pressure"
     },
     {
       "source": "Your Year with ChatGPT",
-      "target": "from-answers-to-pressure"
+      "target": "scepticism-of-external-ideas"
     },
     {
       "source": "Your Year with ChatGPT",
@@ -2391,23 +2513,11 @@
     },
     {
       "source": "MOC - Cook, Don't Reheat",
-      "target": "reheated-thinking"
-    },
-    {
-      "source": "MOC - Cook, Don't Reheat",
       "target": "augmented-cognition"
     },
     {
       "source": "MOC - Cook, Don't Reheat",
-      "target": "the-freezer-and-the-sous-chef"
-    },
-    {
-      "source": "MOC - Cook, Don't Reheat",
-      "target": "authorship-lives-in-judgement"
-    },
-    {
-      "source": "MOC - Cook, Don't Reheat",
-      "target": "ai-expands-not-compresses"
+      "target": "reheated-thinking"
     },
     {
       "source": "MOC - Cook, Don't Reheat",
@@ -2415,11 +2525,23 @@
     },
     {
       "source": "MOC - Cook, Don't Reheat",
+      "target": "the-dinner-party-test"
+    },
+    {
+      "source": "MOC - Cook, Don't Reheat",
       "target": "ai-outputs-are-inputs"
     },
     {
       "source": "MOC - Cook, Don't Reheat",
-      "target": "firewall-your-thinking"
+      "target": "ai-expands-not-compresses"
+    },
+    {
+      "source": "MOC - Cook, Don't Reheat",
+      "target": "authorship-lives-in-judgement"
+    },
+    {
+      "source": "MOC - Cook, Don't Reheat",
+      "target": "chain-of-cognition"
     },
     {
       "source": "MOC - Cook, Don't Reheat",
@@ -2431,11 +2553,7 @@
     },
     {
       "source": "MOC - Cook, Don't Reheat",
-      "target": "chain-of-cognition"
-    },
-    {
-      "source": "MOC - Cook, Don't Reheat",
-      "target": "cook-dont-reheat"
+      "target": "firewall-your-thinking"
     },
     {
       "source": "MOC - Cook, Don't Reheat",
@@ -2443,7 +2561,67 @@
     },
     {
       "source": "MOC - Cook, Don't Reheat",
-      "target": "the-dinner-party-test"
+      "target": "the-freezer-and-the-sous-chef"
+    },
+    {
+      "source": "MOC - Cook, Don't Reheat",
+      "target": "cook-dont-reheat"
+    },
+    {
+      "source": "MOC - Chain of Cognition",
+      "target": "augmented-cognition"
+    },
+    {
+      "source": "MOC - Chain of Cognition",
+      "target": "reheated-thinking"
+    },
+    {
+      "source": "MOC - Chain of Cognition",
+      "target": "the-vault-extraction-fallacy"
+    },
+    {
+      "source": "MOC - Chain of Cognition",
+      "target": "the-secret-sauce-is-judgement"
+    },
+    {
+      "source": "MOC - Chain of Cognition",
+      "target": "chain-of-cognition-how-to-cook-instead"
+    },
+    {
+      "source": "MOC - Chain of Cognition",
+      "target": "chain-of-cognition"
+    },
+    {
+      "source": "MOC - Chain of Cognition",
+      "target": "personal-encryption-as-talent-market-signal"
+    },
+    {
+      "source": "MOC - Chain of Cognition",
+      "target": "context-stack-in-chain-of-cognition"
+    },
+    {
+      "source": "MOC - Chain of Cognition",
+      "target": "ai-outputs-are-inputs"
+    },
+    {
+      "source": "MOC - Chain of Cognition",
+      "target": "cook-dont-reheat"
+    },
+    {
+      "source": "MOC - How to Start Building Your AI Knowledge System",
+      "target": "from-asking-answers-to-applying-pressure"
+    },
+    {
+      "source": "MOC - How to Start Building Your AI Knowledge System",
+      "target": "brainstorming-workflow"
+    },
+    {
+      "source": "MOC - How to Start Building Your AI Knowledge System",
+      "target": "organise-by-description-not-location"
+    },
+    {
+      "source": "MOC - How to Start Building Your AI Knowledge System",
+      "target": "moving-house-moving-models"
     },
     {
       "source": "MOC - How to Start Building Your AI Knowledge System",
@@ -2455,23 +2633,11 @@
     },
     {
       "source": "MOC - How to Start Building Your AI Knowledge System",
-      "target": "the-context-layer"
-    },
-    {
-      "source": "MOC - How to Start Building Your AI Knowledge System",
       "target": "start-with-a-real-task"
     },
     {
       "source": "MOC - How to Start Building Your AI Knowledge System",
-      "target": "ai-outputs-are-inputs"
-    },
-    {
-      "source": "MOC - How to Start Building Your AI Knowledge System",
-      "target": "firewall-your-thinking"
-    },
-    {
-      "source": "MOC - How to Start Building Your AI Knowledge System",
-      "target": "from-asking-answers-to-applying-pressure"
+      "target": "the-context-layer"
     },
     {
       "source": "MOC - How to Start Building Your AI Knowledge System",
@@ -2479,23 +2645,27 @@
     },
     {
       "source": "MOC - How to Start Building Your AI Knowledge System",
-      "target": "brainstorming-workflow"
+      "target": "the-fourth-search"
+    },
+    {
+      "source": "MOC - How to Start Building Your AI Knowledge System",
+      "target": "firewall-your-thinking"
+    },
+    {
+      "source": "MOC - How to Start Building Your AI Knowledge System",
+      "target": "ai-outputs-are-inputs"
     },
     {
       "source": "MOC - How to Start Building Your AI Knowledge System",
       "target": "build-systems-people-think-inside"
     },
     {
-      "source": "MOC - How to Start Building Your AI Knowledge System",
-      "target": "moving-house-moving-models"
+      "source": "MOC - Diary of a Cheapskate Knowledge Worker",
+      "target": "ai-sceptics-are-right-about-the-wrong-thing"
     },
     {
-      "source": "MOC - How to Start Building Your AI Knowledge System",
-      "target": "the-fourth-search"
-    },
-    {
-      "source": "MOC - How to Start Building Your AI Knowledge System",
-      "target": "organise-by-description-not-location"
+      "source": "MOC - Diary of a Cheapskate Knowledge Worker",
+      "target": "brainstorming-workflow"
     },
     {
       "source": "MOC - Diary of a Cheapskate Knowledge Worker",
@@ -2507,19 +2677,7 @@
     },
     {
       "source": "MOC - Diary of a Cheapskate Knowledge Worker",
-      "target": "claude-code-cowork-on-the-pro-tier"
-    },
-    {
-      "source": "MOC - Diary of a Cheapskate Knowledge Worker",
-      "target": "brainstorming-workflow"
-    },
-    {
-      "source": "MOC - Diary of a Cheapskate Knowledge Worker",
-      "target": "ai-as-persistent-collaborator"
-    },
-    {
-      "source": "MOC - Diary of a Cheapskate Knowledge Worker",
-      "target": "ai-sceptics-are-right-about-the-wrong-thing"
+      "target": "the-fourth-search"
     },
     {
       "source": "MOC - Diary of a Cheapskate Knowledge Worker",
@@ -2527,23 +2685,15 @@
     },
     {
       "source": "MOC - Diary of a Cheapskate Knowledge Worker",
-      "target": "the-fourth-search"
+      "target": "ai-as-persistent-collaborator"
+    },
+    {
+      "source": "MOC - Diary of a Cheapskate Knowledge Worker",
+      "target": "claude-code-cowork-on-the-pro-tier"
     },
     {
       "source": "MOC - How I Turn Scattered Ideas into Finished Writing",
-      "target": "ai-as-co-thinker"
-    },
-    {
-      "source": "MOC - How I Turn Scattered Ideas into Finished Writing",
-      "target": "ai-expands-not-compresses"
-    },
-    {
-      "source": "MOC - How I Turn Scattered Ideas into Finished Writing",
-      "target": "ai-outputs-are-inputs"
-    },
-    {
-      "source": "MOC - How I Turn Scattered Ideas into Finished Writing",
-      "target": "from-asking-answers-to-applying-pressure"
+      "target": "ai-sceptics-are-right-about-the-wrong-thing"
     },
     {
       "source": "MOC - How I Turn Scattered Ideas into Finished Writing",
@@ -2551,11 +2701,63 @@
     },
     {
       "source": "MOC - How I Turn Scattered Ideas into Finished Writing",
-      "target": "the-bullet-draft-method"
+      "target": "brainstorming-workflow"
+    },
+    {
+      "source": "MOC - How I Turn Scattered Ideas into Finished Writing",
+      "target": "moving-house-moving-models"
     },
     {
       "source": "MOC - How I Turn Scattered Ideas into Finished Writing",
       "target": "links-do-the-work"
+    },
+    {
+      "source": "MOC - How I Turn Scattered Ideas into Finished Writing",
+      "target": "one-idea-per-note"
+    },
+    {
+      "source": "MOC - How I Turn Scattered Ideas into Finished Writing",
+      "target": "the-two-paths-converge"
+    },
+    {
+      "source": "MOC - How I Turn Scattered Ideas into Finished Writing",
+      "target": "authorship-lives-in-judgement"
+    },
+    {
+      "source": "MOC - How I Turn Scattered Ideas into Finished Writing",
+      "target": "ai-as-persistent-collaborator"
+    },
+    {
+      "source": "MOC - How I Turn Scattered Ideas into Finished Writing",
+      "target": "ai-value-is-in-the-process"
+    },
+    {
+      "source": "MOC - How I Turn Scattered Ideas into Finished Writing",
+      "target": "ai-as-co-thinker"
+    },
+    {
+      "source": "MOC - How I Turn Scattered Ideas into Finished Writing",
+      "target": "from-asking-answers-to-applying-pressure"
+    },
+    {
+      "source": "MOC - How I Turn Scattered Ideas into Finished Writing",
+      "target": "ai-as-infrastructure-for-thinking"
+    },
+    {
+      "source": "MOC - How I Turn Scattered Ideas into Finished Writing",
+      "target": "ai-expands-not-compresses"
+    },
+    {
+      "source": "MOC - How I Turn Scattered Ideas into Finished Writing",
+      "target": "ai-makes-thinking-harder-not-easier"
+    },
+    {
+      "source": "MOC - How I Turn Scattered Ideas into Finished Writing",
+      "target": "markdown-as-universal-format"
+    },
+    {
+      "source": "MOC - How I Turn Scattered Ideas into Finished Writing",
+      "target": "the-blue-lagoon-analogy"
     },
     {
       "source": "MOC - How I Turn Scattered Ideas into Finished Writing",
@@ -2567,31 +2769,7 @@
     },
     {
       "source": "MOC - How I Turn Scattered Ideas into Finished Writing",
-      "target": "one-idea-per-note"
-    },
-    {
-      "source": "MOC - How I Turn Scattered Ideas into Finished Writing",
       "target": "the-ai-surfaces-connections-you-missed"
-    },
-    {
-      "source": "MOC - How I Turn Scattered Ideas into Finished Writing",
-      "target": "how-to-start-building-your-ai-knowledge-system"
-    },
-    {
-      "source": "MOC - How I Turn Scattered Ideas into Finished Writing",
-      "target": "ai-as-infrastructure-for-thinking"
-    },
-    {
-      "source": "MOC - How I Turn Scattered Ideas into Finished Writing",
-      "target": "the-blue-lagoon-analogy"
-    },
-    {
-      "source": "MOC - How I Turn Scattered Ideas into Finished Writing",
-      "target": "the-two-paths-converge"
-    },
-    {
-      "source": "MOC - How I Turn Scattered Ideas into Finished Writing",
-      "target": "ai-makes-thinking-harder-not-easier"
     },
     {
       "source": "MOC - How I Turn Scattered Ideas into Finished Writing",
@@ -2599,19 +2777,7 @@
     },
     {
       "source": "MOC - How I Turn Scattered Ideas into Finished Writing",
-      "target": "the-writing-is-a-byproduct"
-    },
-    {
-      "source": "MOC - How I Turn Scattered Ideas into Finished Writing",
-      "target": "ai-as-persistent-collaborator"
-    },
-    {
-      "source": "MOC - How I Turn Scattered Ideas into Finished Writing",
-      "target": "ai-sceptics-are-right-about-the-wrong-thing"
-    },
-    {
-      "source": "MOC - How I Turn Scattered Ideas into Finished Writing",
-      "target": "markdown-as-universal-format"
+      "target": "the-bullet-draft-method"
     },
     {
       "source": "MOC - How I Turn Scattered Ideas into Finished Writing",
@@ -2619,15 +2785,7 @@
     },
     {
       "source": "MOC - How I Turn Scattered Ideas into Finished Writing",
-      "target": "firewall-your-thinking"
-    },
-    {
-      "source": "MOC - How I Turn Scattered Ideas into Finished Writing",
-      "target": "brainstorming-workflow"
-    },
-    {
-      "source": "MOC - How I Turn Scattered Ideas into Finished Writing",
-      "target": "moving-house-moving-models"
+      "target": "how-to-start-building-your-ai-knowledge-system"
     },
     {
       "source": "MOC - How I Turn Scattered Ideas into Finished Writing",
@@ -2635,15 +2793,47 @@
     },
     {
       "source": "MOC - How I Turn Scattered Ideas into Finished Writing",
-      "target": "authorship-lives-in-judgement"
+      "target": "the-writing-is-a-byproduct"
     },
     {
       "source": "MOC - How I Turn Scattered Ideas into Finished Writing",
-      "target": "ai-value-is-in-the-process"
+      "target": "firewall-your-thinking"
+    },
+    {
+      "source": "MOC - How I Turn Scattered Ideas into Finished Writing",
+      "target": "ai-outputs-are-inputs"
+    },
+    {
+      "source": "MOC - From Asking for Answers to Applying Pressure",
+      "target": "from-asking-answers-to-applying-pressure"
+    },
+    {
+      "source": "MOC - From Asking for Answers to Applying Pressure",
+      "target": "ai-sceptics-are-right-about-the-wrong-thing"
+    },
+    {
+      "source": "MOC - From Asking for Answers to Applying Pressure",
+      "target": "brainstorming-workflow"
+    },
+    {
+      "source": "MOC - From Asking for Answers to Applying Pressure",
+      "target": "positions-not-explanations"
+    },
+    {
+      "source": "MOC - From Asking for Answers to Applying Pressure",
+      "target": "ai-makes-thinking-harder-not-easier"
+    },
+    {
+      "source": "MOC - From Asking for Answers to Applying Pressure",
+      "target": "deliberate-incompleteness"
     },
     {
       "source": "MOC - From Asking for Answers to Applying Pressure",
       "target": "how-to-start-building-your-ai-knowledge-system"
+    },
+    {
+      "source": "MOC - From Asking for Answers to Applying Pressure",
+      "target": "authorship-lives-in-judgement"
     },
     {
       "source": "MOC - From Asking for Answers to Applying Pressure",
@@ -2655,11 +2845,7 @@
     },
     {
       "source": "MOC - From Asking for Answers to Applying Pressure",
-      "target": "from-asking-answers-to-applying-pressure"
-    },
-    {
-      "source": "MOC - From Asking for Answers to Applying Pressure",
-      "target": "ai-makes-thinking-harder-not-easier"
+      "target": "from-answers-to-pressure"
     },
     {
       "source": "MOC - From Asking for Answers to Applying Pressure",
@@ -2667,111 +2853,15 @@
     },
     {
       "source": "MOC - From Asking for Answers to Applying Pressure",
-      "target": "from-answers-to-pressure"
-    },
-    {
-      "source": "MOC - From Asking for Answers to Applying Pressure",
       "target": "ai-outputs-are-inputs"
     },
     {
-      "source": "MOC - From Asking for Answers to Applying Pressure",
-      "target": "brainstorming-workflow"
-    },
-    {
-      "source": "MOC - From Asking for Answers to Applying Pressure",
+      "source": "MOC - The Fourth Search",
       "target": "ai-sceptics-are-right-about-the-wrong-thing"
-    },
-    {
-      "source": "MOC - From Asking for Answers to Applying Pressure",
-      "target": "positions-not-explanations"
-    },
-    {
-      "source": "MOC - From Asking for Answers to Applying Pressure",
-      "target": "authorship-lives-in-judgement"
-    },
-    {
-      "source": "MOC - From Asking for Answers to Applying Pressure",
-      "target": "deliberate-incompleteness"
-    },
-    {
-      "source": "MOC - The Fourth Search",
-      "target": "the-best-knowledge-layer-is-a-working-environment"
-    },
-    {
-      "source": "MOC - The Fourth Search",
-      "target": "the-context-bottleneck"
-    },
-    {
-      "source": "MOC - The Fourth Search",
-      "target": "the-context-layer"
-    },
-    {
-      "source": "MOC - The Fourth Search",
-      "target": "context-is-the-differentiator"
     },
     {
       "source": "MOC - The Fourth Search",
       "target": "compound-interest-on-thinking"
-    },
-    {
-      "source": "MOC - The Fourth Search",
-      "target": "links-do-the-work"
-    },
-    {
-      "source": "MOC - The Fourth Search",
-      "target": "the-fourth-search"
-    },
-    {
-      "source": "MOC - The Fourth Search",
-      "target": "thinking-residue"
-    },
-    {
-      "source": "MOC - The Fourth Search",
-      "target": "the-ai-surfaces-connections-you-missed"
-    },
-    {
-      "source": "MOC - The Fourth Search",
-      "target": "how-to-start-building-your-ai-knowledge-system"
-    },
-    {
-      "source": "MOC - The Fourth Search",
-      "target": "the-flywheel"
-    },
-    {
-      "source": "MOC - The Fourth Search",
-      "target": "four-modalities-of-search"
-    },
-    {
-      "source": "MOC - The Fourth Search",
-      "target": "semantic-search"
-    },
-    {
-      "source": "MOC - The Fourth Search",
-      "target": "build-systems-people-think-inside"
-    },
-    {
-      "source": "MOC - The Fourth Search",
-      "target": "human-judgement-vs-machine-understanding"
-    },
-    {
-      "source": "MOC - The Fourth Search",
-      "target": "ai-sceptics-are-right-about-the-wrong-thing"
-    },
-    {
-      "source": "MOC - The Fourth Search",
-      "target": "optimising-context-for-ai"
-    },
-    {
-      "source": "MOC - The Fourth Search",
-      "target": "keyword-search"
-    },
-    {
-      "source": "MOC - The Fourth Search",
-      "target": "chaining-search-modalities"
-    },
-    {
-      "source": "MOC - The Fourth Search",
-      "target": "claude-code-cowork-on-the-pro-tier"
     },
     {
       "source": "MOC - The Fourth Search",
@@ -2783,15 +2873,107 @@
     },
     {
       "source": "MOC - The Fourth Search",
-      "target": "the-link-graph"
+      "target": "links-do-the-work"
+    },
+    {
+      "source": "MOC - The Fourth Search",
+      "target": "context-is-the-differentiator"
+    },
+    {
+      "source": "MOC - The Fourth Search",
+      "target": "the-context-bottleneck"
+    },
+    {
+      "source": "MOC - The Fourth Search",
+      "target": "optimising-context-for-ai"
+    },
+    {
+      "source": "MOC - The Fourth Search",
+      "target": "the-flywheel"
+    },
+    {
+      "source": "MOC - The Fourth Search",
+      "target": "the-best-knowledge-layer-is-a-working-environment"
+    },
+    {
+      "source": "MOC - The Fourth Search",
+      "target": "the-context-layer"
+    },
+    {
+      "source": "MOC - The Fourth Search",
+      "target": "build-systems-people-think-inside"
+    },
+    {
+      "source": "MOC - The Fourth Search",
+      "target": "the-fourth-search"
+    },
+    {
+      "source": "MOC - The Fourth Search",
+      "target": "the-ai-surfaces-connections-you-missed"
+    },
+    {
+      "source": "MOC - The Fourth Search",
+      "target": "four-modalities-of-search"
+    },
+    {
+      "source": "MOC - The Fourth Search",
+      "target": "thinking-residue"
     },
     {
       "source": "MOC - The Fourth Search",
       "target": "metadata-search"
     },
     {
+      "source": "MOC - The Fourth Search",
+      "target": "chaining-search-modalities"
+    },
+    {
+      "source": "MOC - The Fourth Search",
+      "target": "human-judgement-vs-machine-understanding"
+    },
+    {
+      "source": "MOC - The Fourth Search",
+      "target": "how-to-start-building-your-ai-knowledge-system"
+    },
+    {
+      "source": "MOC - The Fourth Search",
+      "target": "keyword-search"
+    },
+    {
+      "source": "MOC - The Fourth Search",
+      "target": "the-link-graph"
+    },
+    {
+      "source": "MOC - The Fourth Search",
+      "target": "semantic-search"
+    },
+    {
+      "source": "MOC - The Fourth Search",
+      "target": "claude-code-cowork-on-the-pro-tier"
+    },
+    {
       "source": "MOC - The AI Sceptics Are Right About the Wrong Thing",
-      "target": "ai-as-co-thinker"
+      "target": "ai-sceptics-are-right-about-the-wrong-thing"
+    },
+    {
+      "source": "MOC - The AI Sceptics Are Right About the Wrong Thing",
+      "target": "brainstorming-workflow"
+    },
+    {
+      "source": "MOC - The AI Sceptics Are Right About the Wrong Thing",
+      "target": "continuity-is-the-value"
+    },
+    {
+      "source": "MOC - The AI Sceptics Are Right About the Wrong Thing",
+      "target": "moving-house-moving-models"
+    },
+    {
+      "source": "MOC - The AI Sceptics Are Right About the Wrong Thing",
+      "target": "context-is-the-differentiator"
+    },
+    {
+      "source": "MOC - The AI Sceptics Are Right About the Wrong Thing",
+      "target": "ai-as-persistent-collaborator"
     },
     {
       "source": "MOC - The AI Sceptics Are Right About the Wrong Thing",
@@ -2803,39 +2985,11 @@
     },
     {
       "source": "MOC - The AI Sceptics Are Right About the Wrong Thing",
-      "target": "from-answers-to-pressure"
-    },
-    {
-      "source": "MOC - The AI Sceptics Are Right About the Wrong Thing",
-      "target": "context-is-the-differentiator"
+      "target": "ai-makes-thinking-harder-not-easier"
     },
     {
       "source": "MOC - The AI Sceptics Are Right About the Wrong Thing",
       "target": "the-fourth-search"
-    },
-    {
-      "source": "MOC - The AI Sceptics Are Right About the Wrong Thing",
-      "target": "continuity-is-the-value"
-    },
-    {
-      "source": "MOC - The AI Sceptics Are Right About the Wrong Thing",
-      "target": "the-saaspocalypse"
-    },
-    {
-      "source": "MOC - The AI Sceptics Are Right About the Wrong Thing",
-      "target": "the-brilliant-colleague-with-amnesia"
-    },
-    {
-      "source": "MOC - The AI Sceptics Are Right About the Wrong Thing",
-      "target": "the-atrophy-argument"
-    },
-    {
-      "source": "MOC - The AI Sceptics Are Right About the Wrong Thing",
-      "target": "the-rocket-stages-metaphor"
-    },
-    {
-      "source": "MOC - The AI Sceptics Are Right About the Wrong Thing",
-      "target": "ai-makes-thinking-harder-not-easier"
     },
     {
       "source": "MOC - The AI Sceptics Are Right About the Wrong Thing",
@@ -2843,19 +2997,31 @@
     },
     {
       "source": "MOC - The AI Sceptics Are Right About the Wrong Thing",
+      "target": "the-brilliant-colleague-with-amnesia"
+    },
+    {
+      "source": "MOC - The AI Sceptics Are Right About the Wrong Thing",
+      "target": "the-rocket-stages-metaphor"
+    },
+    {
+      "source": "MOC - The AI Sceptics Are Right About the Wrong Thing",
+      "target": "from-answers-to-pressure"
+    },
+    {
+      "source": "MOC - The AI Sceptics Are Right About the Wrong Thing",
+      "target": "the-saaspocalypse"
+    },
+    {
+      "source": "MOC - The AI Sceptics Are Right About the Wrong Thing",
       "target": "ai-sceptics-and-altavista"
     },
     {
       "source": "MOC - The AI Sceptics Are Right About the Wrong Thing",
-      "target": "ai-as-persistent-collaborator"
+      "target": "the-atrophy-argument"
     },
     {
       "source": "MOC - The AI Sceptics Are Right About the Wrong Thing",
-      "target": "ai-sceptics-are-right-about-the-wrong-thing"
-    },
-    {
-      "source": "MOC - The AI Sceptics Are Right About the Wrong Thing",
-      "target": "rubber-duck-that-pushes-back"
+      "target": "the-dotcom-comparison"
     },
     {
       "source": "MOC - The AI Sceptics Are Right About the Wrong Thing",
@@ -2863,59 +3029,15 @@
     },
     {
       "source": "MOC - The AI Sceptics Are Right About the Wrong Thing",
+      "target": "rubber-duck-that-pushes-back"
+    },
+    {
+      "source": "MOC - The AI Sceptics Are Right About the Wrong Thing",
+      "target": "ai-as-co-thinker"
+    },
+    {
+      "source": "MOC - The AI Sceptics Are Right About the Wrong Thing",
       "target": "claude-code-cowork-on-the-pro-tier"
-    },
-    {
-      "source": "MOC - The AI Sceptics Are Right About the Wrong Thing",
-      "target": "brainstorming-workflow"
-    },
-    {
-      "source": "MOC - The AI Sceptics Are Right About the Wrong Thing",
-      "target": "moving-house-moving-models"
-    },
-    {
-      "source": "MOC - The AI Sceptics Are Right About the Wrong Thing",
-      "target": "the-dotcom-comparison"
-    },
-    {
-      "source": "MOC - Moving House Moving Models",
-      "target": "the-workflow-package"
-    },
-    {
-      "source": "MOC - Moving House Moving Models",
-      "target": "how-to-start-building-your-ai-knowledge-system"
-    },
-    {
-      "source": "MOC - Moving House Moving Models",
-      "target": "the-context-layer"
-    },
-    {
-      "source": "MOC - Moving House Moving Models",
-      "target": "model-portability"
-    },
-    {
-      "source": "MOC - Moving House Moving Models",
-      "target": "vendor-memory-is-renting-furnished"
-    },
-    {
-      "source": "MOC - Moving House Moving Models",
-      "target": "context-aware-routing"
-    },
-    {
-      "source": "MOC - Moving House Moving Models",
-      "target": "context-is-the-differentiator"
-    },
-    {
-      "source": "MOC - Moving House Moving Models",
-      "target": "brainstorming-workflow"
-    },
-    {
-      "source": "MOC - Moving House Moving Models",
-      "target": "compound-interest-on-thinking"
-    },
-    {
-      "source": "MOC - Moving House Moving Models",
-      "target": "four-modalities-of-search"
     },
     {
       "source": "MOC - Moving House Moving Models",
@@ -2923,11 +3045,23 @@
     },
     {
       "source": "MOC - Moving House Moving Models",
-      "target": "the-invisible-arrangement"
+      "target": "the-wardrobe-metaphor"
     },
     {
       "source": "MOC - Moving House Moving Models",
-      "target": "local-model-beats-frontier-without-context"
+      "target": "context-aware-routing"
+    },
+    {
+      "source": "MOC - Moving House Moving Models",
+      "target": "the-workflow-package"
+    },
+    {
+      "source": "MOC - Moving House Moving Models",
+      "target": "compound-interest-on-thinking"
+    },
+    {
+      "source": "MOC - Moving House Moving Models",
+      "target": "brainstorming-workflow"
     },
     {
       "source": "MOC - Moving House Moving Models",
@@ -2935,11 +3069,11 @@
     },
     {
       "source": "MOC - Moving House Moving Models",
-      "target": "the-fourth-search"
+      "target": "four-modalities-of-search"
     },
     {
       "source": "MOC - Moving House Moving Models",
-      "target": "the-storage-unit-metaphor"
+      "target": "how-to-start-building-your-ai-knowledge-system"
     },
     {
       "source": "MOC - Moving House Moving Models",
@@ -2947,7 +3081,35 @@
     },
     {
       "source": "MOC - Moving House Moving Models",
-      "target": "the-wardrobe-metaphor"
+      "target": "local-model-beats-frontier-without-context"
+    },
+    {
+      "source": "MOC - Moving House Moving Models",
+      "target": "model-portability"
+    },
+    {
+      "source": "MOC - Moving House Moving Models",
+      "target": "the-context-layer"
+    },
+    {
+      "source": "MOC - Moving House Moving Models",
+      "target": "context-is-the-differentiator"
+    },
+    {
+      "source": "MOC - Moving House Moving Models",
+      "target": "the-fourth-search"
+    },
+    {
+      "source": "MOC - Moving House Moving Models",
+      "target": "the-invisible-arrangement"
+    },
+    {
+      "source": "MOC - Moving House Moving Models",
+      "target": "the-storage-unit-metaphor"
+    },
+    {
+      "source": "MOC - Moving House Moving Models",
+      "target": "vendor-memory-is-renting-furnished"
     }
   ]
 }
